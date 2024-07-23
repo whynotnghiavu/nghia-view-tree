@@ -16,32 +16,16 @@
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
-    |    |    |----code/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
     |    |    |----nghia-course.py
-    |    |    |----output/
-    |    |    |----video/
     |    |----nghia-course.code-workspace
     |    |----README.md
     |----nghia-delete-empty-folder/
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
-    |    |    |----code/
-    |    |    |----contents/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
-    |    |    |----nghia-delete-empty-folder/
-    |    |    |----nghia-delete-empty-folder-main/
-    |    |    |    |----contents/
     |    |    |----nghia-delete-empty-folder-main.zip
     |    |    |----nghia-delete-empty-folder.py
     |    |    |----nghia-rename-time.py
-    |    |    |----output/
-    |    |    |----video/
     |    |----nghia-delete-empty-folder.code-workspace
     |    |----README.md
     |----nghia-english/
@@ -49,13 +33,7 @@
     |----nghia-github-cli/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----code/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
     |    |    |----nghia-github-cli.py
-    |    |    |----output/
-    |    |    |----video/
     |    |----nghia-github-cli.code-workspace
     |    |----README.md
     |----nghia-github-clone-all/
@@ -122,28 +100,13 @@
     |----nghia-google-map/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----code/
-    |    |    |----contents/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
-    |    |    |----nghia-google-map/
     |    |    |----nghia-google-map.html
-    |    |    |----output/
-    |    |    |----video/
     |    |----nghia-google-map.code-workspace
     |    |----README.md
     |----nghia-note/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----code/
     |    |    |----course.md
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
-    |    |    |----output/
-    |    |    |----video/
-    |    |----nghia-note/
     |    |----nghia-note.code-workspace
     |    |----README.md
     |----nghia-push/
@@ -156,84 +119,43 @@
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
-    |    |    |----code/
     |    |    |----contents/
     |    |    |    |----.gitignore
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
-    |    |    |----nghia-rename-time-main/
-    |    |    |    |----nghia-rename-time-main/
-    |    |    |    |    |----contents/
     |    |    |----nghia-rename-time-main.zip
     |    |    |----nghia-rename-time.py
-    |    |    |----output/
-    |    |    |----video/
     |    |----nghia-rename-time.code-workspace
     |    |----README.md
     |----nghia-scrapy-topcv-crawler/
     |----nghia-step-recorder/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----code/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
     |    |    |----nghia-step-recorder.py
-    |    |    |----output/
-    |    |    |----video/
-    |    |----New folder/
-    |    |----nghia-step-recorder/
     |    |----nghia-step-recorder.code-workspace
     |    |----README.md
     |----nghia-test-tikz/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----contents/
     |    |    |----main.tex
-    |    |    |----nghia-test-tikz/
     |    |    |----template.tex
     |    |----nghia-test-tikz.code-workspace
     |    |----README.md
     |----nghia-ubuntu/
     |    |----.gitignore
-    |    |----contents/
-    |    |    |----code/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
-    |    |    |----output/
-    |    |    |----video/
     |    |----nghia-ubuntu.code-workspace
     |    |----README.md
     |----nghia-ubuntu-link/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----code/
-    |    |    |----contents/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
-    |    |    |----nghia-ubuntu-link/
     |    |    |----nghia-ubuntu-link.py
-    |    |    |----output/
-    |    |    |----video/
     |    |----nghia-ubuntu-link.code-workspace
     |    |----README.md
     |----nghia-view-tree/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----code/
-    |    |    |----contents/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
-    |    |    |----nghia-view-tree/
     |    |    |----nghia-view-tree.py
     |    |    |----output/
     |    |    |    |----.gitignore
     |    |    |----output.txt
-    |    |    |----video/
     |    |----nghia-view-tree.code-workspace
     |    |----README.md
     |----nghia-wifi-proxy/
@@ -246,30 +168,15 @@
     |----nghia-windows-autohotkey/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----AutoHotkey/
-    |    |    |----code/
-    |    |    |----contents/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
-    |    |    |----nghia-AutoHotkey/
     |    |    |----nghia-windows-autohotkey.py
     |    |    |----nghia.ahk
     |    |    |----nghia.py
-    |    |    |----output/
-    |    |    |----video/
     |    |----nghia-windows-autohotkey.code-workspace
     |    |----README.md
     |----whynotnghiavu/
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
-    |    |    |----code/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
-    |    |    |----output/
-    |    |    |----video/
     |    |    |----whynotnghiavu.py
     |    |----README.md
     |    |----whynotnghiavu.code-workspace
