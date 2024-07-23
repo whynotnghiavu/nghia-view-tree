@@ -74,13 +74,7 @@
     |----nghia-github-push/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----code/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
     |    |    |----nghia-github-push.py
-    |    |    |----output/
-    |    |    |----video/
     |    |----nghia-github-push.code-workspace
     |    |----README.md
     |----nghia-github-ssh/
@@ -180,10 +174,6 @@
     |----nghia-view-usb/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----code/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
     |    |    |----nghia-view-usb.py
     |    |    |----output/
     |    |    |    |----output_hdd.txt
@@ -193,7 +183,6 @@
     |    |    |    |----contents/
     |    |    |    |    |----.gitignore
     |    |    |    |----nghia-usb.txt
-    |    |    |----video/
     |    |----nghia-view-usb.code-workspace
     |    |----README.md
     |    |----Screenshot (18).png
@@ -219,14 +208,8 @@
     |----nghia-windows-unikey/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----code/
-    |    |    |----documents/
-    |    |    |----input/
-    |    |    |----modules/
     |    |    |----nghia-windows-unikey.py
     |    |    |----nghia-windows-unikey.txt
-    |    |    |----output/
-    |    |    |----video/
     |    |----nghia-windows-unikey.code-workspace
     |    |----README.md
     |----whynotnghiavu/
@@ -238,17 +221,3 @@
     |    |----whynotnghiavu.code-workspace
     |----_Delete/
     |    |----.gitignore
-    |    |----nghia-push/
-    |    |    |----contents/
-    |    |----nghia-push-main/
-    |    |    |----contents/
-    |    |----nghia-step-recorder-main/
-    |    |    |----nghia-step-recorder-main/
-    |    |    |    |----contents/
-    |    |----nghia-UniKey/
-    |    |    |----contents/
-    |    |----nghia-usb/
-    |    |    |----contents/
-    |    |----nghia-usb-main/
-    |    |----nghia-windows-unikey-main/
-    |    |    |----contents/
