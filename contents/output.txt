@@ -14,7 +14,9 @@
     |    |    |    |----favorites_12_3_23.html
     |    |    |    |----input.html
     |    |    |    |----output.html
+    |    |    |----input.html
     |    |    |----nghia-chrome-bookmarks.py
+    |    |    |----output.html
     |    |----nghia-chrome-bookmarks.code-workspace
     |    |----README.md
     |----nghia-chrome-extensions/
