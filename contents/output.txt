@@ -36,9 +36,7 @@
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
-    |    |    |----nghia-delete-empty-folder-main.zip
     |    |    |----nghia-delete-empty-folder.py
-    |    |    |----nghia-rename-time.py
     |    |----nghia-delete-empty-folder.code-workspace
     |    |----README.md
     |----nghia-english/
@@ -132,9 +130,6 @@
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
-    |    |    |----contents/
-    |    |    |    |----.gitignore
-    |    |    |----nghia-rename-time-main.zip
     |    |    |----nghia-rename-time.py
     |    |----nghia-rename-time.code-workspace
     |    |----README.md
