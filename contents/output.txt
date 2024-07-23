@@ -40,6 +40,11 @@
     |    |----nghia-delete-empty-folder.code-workspace
     |    |----README.md
     |----nghia-english/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----.gitignore
+    |    |    |----nghia-english.py
+    |    |----nghia-english.code-workspace
     |    |----README.md
     |----nghia-github-cli/
     |    |----.gitignore
@@ -65,6 +70,18 @@
     |    |    |----vvn20206205.gitconfig
     |    |    |----whynotnghiavu.gitconfig
     |    |----nghia-github-gitconfig.code-workspace
+    |    |----README.md
+    |----nghia-github-push/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----code/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-github-push.py
+    |    |    |----output/
+    |    |    |----video/
+    |    |----nghia-github-push.code-workspace
     |    |----README.md
     |----nghia-github-ssh/
     |    |----.gitignore
@@ -120,12 +137,6 @@
     |    |    |----course.md
     |    |----nghia-note.code-workspace
     |    |----README.md
-    |----nghia-push/
-    |    |----.gitignore
-    |    |----contents/
-    |    |    |----nghia-push.py
-    |    |----nghia-push.code-workspace
-    |    |----README.md
     |----nghia-rename-time/
     |    |----.gitignore
     |    |----contents/
@@ -166,6 +177,30 @@
     |    |    |----output.txt
     |    |----nghia-view-tree.code-workspace
     |    |----README.md
+    |----nghia-view-usb/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----code/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-view-usb.py
+    |    |    |----output/
+    |    |    |    |----output_hdd.txt
+    |    |    |    |----output_ssd-den.txt
+    |    |    |    |----output_usb-dual-boot.txt
+    |    |    |----template/
+    |    |    |    |----contents/
+    |    |    |    |    |----.gitignore
+    |    |    |    |----nghia-usb.txt
+    |    |    |----video/
+    |    |----nghia-view-usb.code-workspace
+    |    |----README.md
+    |    |----Screenshot (18).png
+    |    |----Screenshot (19).png
+    |    |----Screenshot (20).png
+    |    |----Screenshot (21).png
+    |    |----Screenshot (22).png
     |----nghia-wifi-proxy/
     |    |----.gitignore
     |    |----contents/
@@ -181,6 +216,19 @@
     |    |    |----nghia.py
     |    |----nghia-windows-autohotkey.code-workspace
     |    |----README.md
+    |----nghia-windows-unikey/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----code/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-windows-unikey.py
+    |    |    |----nghia-windows-unikey.txt
+    |    |    |----output/
+    |    |    |----video/
+    |    |----nghia-windows-unikey.code-workspace
+    |    |----README.md
     |----whynotnghiavu/
     |    |----.gitignore
     |    |----contents/
@@ -188,3 +236,19 @@
     |    |    |----whynotnghiavu.py
     |    |----README.md
     |    |----whynotnghiavu.code-workspace
+    |----_Delete/
+    |    |----.gitignore
+    |    |----nghia-push/
+    |    |    |----contents/
+    |    |----nghia-push-main/
+    |    |    |----contents/
+    |    |----nghia-step-recorder-main/
+    |    |    |----nghia-step-recorder-main/
+    |    |    |    |----contents/
+    |    |----nghia-UniKey/
+    |    |    |----contents/
+    |    |----nghia-usb/
+    |    |    |----contents/
+    |    |----nghia-usb-main/
+    |    |----nghia-windows-unikey-main/
+    |    |    |----contents/
