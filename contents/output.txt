@@ -1,947 +1,275 @@
-----company20206205/
-    |----nghia-ubuntu-link/
-    |    |----nghia-ubuntu-link.code-workspace
+----whynotnghiavu/
+    |----nghia-chrome-bookmarks/
     |    |----.gitignore
-    |    |----README.md
-    |    |----contents/
-    |    |    |----nghia-ubuntu-link.py
-    |----nghia-step-recorder/
-    |    |----nghia-step-recorder.code-workspace
-    |    |----.gitignore
-    |    |----README.md
-    |    |----contents/
-    |    |    |----nghia-step-recorder.py
-    |----nghia-github-template/
-    |    |----.gitignore
-    |    |----README.md
-    |    |----all.gitignore
-    |    |----nghia-github-template.code-workspace
-    |    |----contents/
-    |    |    |----modules/
-    |    |    |    |----new_repo.py
-    |    |    |    |----create_file.py
-    |    |    |    |----.gitignore
-    |    |    |    |----create_folder.py
-    |    |    |    |----__init__.py
-    |    |    |----ubuntu.py
-    |    |    |----windows.py
-    |----nghia-github-gitconfig/
-    |    |----nghia-github-gitconfig.code-workspace
-    |    |----.gitignore
-    |    |----README.md
-    |    |----contents/
-    |    |    |----company20206205.gitconfig
-    |    |    |----.gitconfig
-    |    |    |----20206205.gitconfig
-    |    |    |----vvn20206205.gitconfig
-    |    |    |----hust20206205.gitconfig
-    |    |    |----vuvannghia452002.gitconfig
-    |    |    |----nghia-github-gitconfig.py
-    |----nghia-rename-time/
-    |    |----.gitignore
-    |    |----nghia-rename-time.code-workspace
-    |    |----README.md
-    |    |----contents/
-    |    |    |----input/
-    |    |    |----nghia-rename-file-time/
-    |    |    |----.gitignore
-    |    |    |----nghia-rename-time.py
-    |----nghia-vscode/
-    |    |----.gitignore
-    |    |----README.md
-    |    |----nghia-vscode.code-workspace
     |    |----contents/
     |    |    |----.gitignore
-    |----company20206205/
+    |    |    |----nghia-chrome-bookmarks.py
+    |    |----nghia-chrome-bookmarks.code-workspace
+    |    |----README.md
+    |----nghia-chrome-extensions/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----index.html
+    |    |----nghia-chrome-extensions.code-workspace
     |    |----README.md
     |----nghia-course/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----.gitignore
+    |    |    |----code/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-course.py
+    |    |    |----output/
+    |    |    |----video/
     |    |----nghia-course.code-workspace
-    |    |----.gitignore
     |    |----README.md
+    |----nghia-delete-empty-folder/
+    |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
-    |----nghia-note/
-    |    |----nghia-note.code-workspace
-    |    |----.gitignore
+    |    |    |----code/
+    |    |    |----contents/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-delete-empty-folder/
+    |    |    |----nghia-delete-empty-folder-main/
+    |    |    |    |----contents/
+    |    |    |----nghia-delete-empty-folder-main.zip
+    |    |    |----nghia-delete-empty-folder.py
+    |    |    |----nghia-rename-time.py
+    |    |    |----output/
+    |    |    |----video/
+    |    |----nghia-delete-empty-folder.code-workspace
     |    |----README.md
-    |    |----contents/
-    |    |    |----course.md
-    |----nghia-windows/
-    |    |----nghia-windows.code-workspace
-    |    |----.gitignore
+    |----nghia-english/
     |    |----README.md
-    |    |----contents/
-    |    |    |----.gitignore
-    |----nghia-github-ssh/
-    |    |----nghia-github-ssh.code-workspace
+    |----nghia-github-cli/
     |    |----.gitignore
-    |    |----README.md
     |    |----contents/
     |    |    |----code/
-    |    |    |    |----nghia-github-ssh.py
-    |    |    |    |----vvn20206205
-    |    |    |    |----company20206205.pub
-    |    |    |    |----vuvannghia452002.pub
-    |    |    |    |----hust20206205
-    |    |    |    |----hust20206205.pub
-    |    |    |    |----company20206205
-    |    |    |    |----env.test.py
-    |    |    |    |----.gitignore
-    |    |    |    |----vvn20206205.pub
-    |    |    |    |----vuvannghia452002
-    |    |    |    |----a.py
-    |    |    |    |----20206205.pub
-    |    |    |    |----config
-    |    |    |    |----20206205
-    |    |    |----env/
-    |    |    |    |----.env
-    |    |    |    |----env.test.py
-    |    |    |    |----.env.example
-    |    |    |    |----.gitignore
-    |    |    |    |----env.example.py
-    |----nghia-push/
-    |    |----nghia-push.code-workspace
-    |    |----.gitignore
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-github-cli.py
+    |    |    |----output/
+    |    |    |----video/
+    |    |----nghia-github-cli.code-workspace
     |    |----README.md
-    |    |----contents/
-    |    |    |----nghia-push.py
-    |----nghia-view-tree/
-    |    |----.gitignore
-    |    |----README.md
-    |    |----contents/
-    |    |    |----1.py
-    |    |    |----nghia-view-tree.py
-    |    |    |----output.txt
-    |    |----nghia-view-tree.code-workspace
-    |----nghia-wifi-proxy/
-    |    |----nghia-wifi-proxy.code-workspace
-    |    |----.gitignore
-    |    |----README.md
-    |    |----contents/
-    |    |    |----ubuntu.py
-    |    |    |----windows.py
     |----nghia-github-clone-all/
     |    |----.gitignore
-    |    |----README.md
     |    |----contents/
     |    |    |----nghia-github-clone-all.py
     |    |----nghia-github-clone-all.code-workspace
+    |    |----README.md
+    |----nghia-github-gitconfig/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----.gitconfig
+    |    |    |----20206205.gitconfig
+    |    |    |----company20206205.gitconfig
+    |    |    |----hust20206205.gitconfig
+    |    |    |----nghia-github-gitconfig.py
+    |    |    |----vuvannghia452002.gitconfig
+    |    |    |----vvn20206205.gitconfig
+    |    |    |----whynotnghiavu.gitconfig
+    |    |----nghia-github-gitconfig.code-workspace
+    |    |----README.md
+    |----nghia-github-ssh/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----code/
+    |    |    |    |----.gitignore
+    |    |    |    |----20206205
+    |    |    |    |----20206205.pub
+    |    |    |    |----company20206205
+    |    |    |    |----company20206205.pub
+    |    |    |    |----config
+    |    |    |    |----hust20206205
+    |    |    |    |----hust20206205.pub
+    |    |    |    |----nghia-github-ssh.py
+    |    |    |    |----requirements.txt
+    |    |    |    |----vuvannghia452002
+    |    |    |    |----vuvannghia452002.pub
+    |    |    |    |----vvn20206205
+    |    |    |    |----vvn20206205.pub
+    |    |    |    |----whynotnghiavu
+    |    |    |    |----whynotnghiavu.pub
+    |    |    |----env/
+    |    |    |    |----.env
+    |    |    |    |----.env.example
+    |    |    |    |----.gitignore
+    |    |    |    |----env.example.py
+    |    |    |    |----env.test.py
+    |    |----nghia-github-ssh.code-workspace
+    |    |----README.md
+    |----nghia-github-template/
+    |    |----.gitignore
+    |    |----all.gitignore
+    |    |----contents/
+    |    |    |----modules/
+    |    |    |    |----.gitignore
+    |    |    |    |----create_file.py
+    |    |    |    |----create_folder.py
+    |    |    |    |----new_repo.py
+    |    |    |    |----__init__.py
+    |    |    |----ubuntu.py
+    |    |    |----windows.py
+    |    |----nghia-github-template.code-workspace
+    |    |----README.md
+    |----nghia-google-map/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----code/
+    |    |    |----contents/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-google-map/
+    |    |    |----nghia-google-map.html
+    |    |    |----output/
+    |    |    |----video/
+    |    |----nghia-google-map.code-workspace
+    |    |----README.md
+    |----nghia-note/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----code/
+    |    |    |----course.md
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----output/
+    |    |    |----video/
+    |    |----nghia-note/
+    |    |----nghia-note.code-workspace
+    |    |----README.md
+    |----nghia-push/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----nghia-push.py
+    |    |----nghia-push.code-workspace
+    |    |----README.md
+    |----nghia-rename-time/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----.gitignore
+    |    |    |----code/
+    |    |    |----contents/
+    |    |    |    |----.gitignore
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-rename-time-main/
+    |    |    |    |----nghia-rename-time-main/
+    |    |    |    |    |----contents/
+    |    |    |----nghia-rename-time-main.zip
+    |    |    |----nghia-rename-time.py
+    |    |    |----output/
+    |    |    |----video/
+    |    |----nghia-rename-time.code-workspace
+    |    |----README.md
+    |----nghia-scrapy-topcv-crawler/
+    |----nghia-step-recorder/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----code/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-step-recorder.py
+    |    |    |----output/
+    |    |    |----video/
+    |    |----New folder/
+    |    |----nghia-step-recorder/
+    |    |----nghia-step-recorder.code-workspace
+    |    |----README.md
+    |----nghia-test-tikz/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----contents/
+    |    |    |----main.tex
+    |    |    |----nghia-test-tikz/
+    |    |    |----template.tex
+    |    |----nghia-test-tikz.code-workspace
+    |    |----README.md
     |----nghia-ubuntu/
     |    |----.gitignore
-    |    |----README.md
-    |    |----.gitmodules
+    |    |----contents/
+    |    |    |----code/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----output/
+    |    |    |----video/
     |    |----nghia-ubuntu.code-workspace
-    |    |----contents/
-    |    |    |----install
-    |    |    |----_download/
-    |    |    |----install.conf.yaml
-    |    |    |----dotfiles/
-    |    |    |    |----others/
-    |    |    |    |    |----handmade/
-    |    |    |    |    |    |----grub-customizer/
-    |    |    |    |    |    |    |----image-4.png
-    |    |    |    |    |    |    |----image-2.png
-    |    |    |    |    |    |    |----image-3.png
-    |    |    |    |    |    |----docker.sh
-    |    |    |    |    |    |----latex.sh
-    |    |    |    |    |    |----ssh.png
-    |    |    |    |    |    |----vn/
-    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-16-20.png
-    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-46-34.png
-    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-46-40.png
-    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-46-15.png
-    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-17-19.png
-    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-14-24.png
-    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-15-09.png
-    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-16-02.png
-    |    |    |    |    |    |----Dock.png
-    |    |    |    |    |----download/
-    |    |    |    |    |    |----download.sh
-    |    |    |    |----code/
-    |    |    |    |    |----default.csv.sh
-    |    |    |    |    |----Home.sh
-    |    |    |    |    |----git.sh
-    |    |    |    |    |----default.markdown.sh
-    |    |    |    |    |----fdm.sh
-    |    |    |    |    |----github.nghia-ubuntu-link.sh
-    |    |    |    |    |----root/
-    |    |    |    |    |    |----home/
-    |    |    |    |    |    |    |----Templates/
-    |    |    |    |    |    |    |    |----Templates/
-    |    |    |    |    |    |    |    |----all.gitignore.gitignore
-    |    |    |    |    |    |    |    |----README.md
-    |    |    |    |    |    |    |    |----main.python.py
-    |    |    |    |    |    |    |    |----Text.txt
-    |    |    |    |    |    |    |    |----main.latex.tex
-    |    |    |    |    |    |    |----.config/
-    |    |    |    |    |    |    |    |----autostart/
-    |    |    |    |    |    |    |    |    |----temp/
-    |    |    |    |    |    |    |    |    |----copyq.desktop
-    |    |    |    |    |    |    |    |    |----google-chrome.desktop
-    |    |    |    |    |    |    |    |    |----code.desktop
-    |    |    |    |    |    |    |    |    |----autostart/
-    |    |    |    |    |    |    |    |    |    |----temp/
-    |    |    |    |    |    |    |    |    |----FDM.desktop
-    |    |    |    |    |    |    |    |----copyq/
-    |    |    |    |    |    |    |    |    |----copyq-commands.ini
-    |    |    |    |    |    |    |----Desktop/
-    |    |    |    |    |    |    |    |----background/
-    |    |    |    |    |    |    |    |----background.jpeg
-    |    |    |    |    |    |----.bashrc
-    |    |    |    |    |----ungroup-taskbar.sh
-    |    |    |    |    |----trash.sh
-    |    |    |    |    |----copyq.sh
-    |    |    |    |    |----default.python.sh
-    |    |    |    |    |----default.pdf.sh
-    |    |    |    |    |----curl.sh
-    |    |    |    |    |----background.sh
-    |    |    |    |    |----code.sh
-    |    |    |    |    |----default.shellscript.sh
-    |    |    |    |    |----dconf-editor.sh
-    |    |    |    |    |----default.mp4.sh
-    |    |    |    |    |----code.md
-    |    |    |    |    |----custom-keybindings.py
-    |    |    |    |    |----default.plain.sh
-    |    |    |    |    |----tree.sh
-    |    |    |    |    |----google-chrome.sh
-    |    |    |    |    |----default.html.sh
-    |    |    |    |    |----ffmpeg.sh
-    |    |    |    |    |----fsearch.sh
-    |    |    |    |    |----google-chrome.md
-    |    |    |    |    |----pip3.sh
-    |    |    |    |    |----shellscript/
-    |    |    |    |    |----default.json.sh
-    |    |    |    |    |----update-upgrade.sh
-    |    |    |    |    |----github.nghia-wifi-proxy.sh
-    |    |    |    |    |----github.nghia-push.sh
-    |    |    |    |    |----grub-customizer.sh
-    |    |    |    |    |----github.nghia-github-template.sh
-    |    |    |    |    |----theme-dark.sh
-    |    |    |----install.format.py
-    |    |    |----autostart/
-    |    |    |    |----temp/
-    |    |    |----dotbot/
-    |    |    |    |----CHANGELOG.md
-    |    |    |    |----.editorconfig
-    |    |    |    |----tox.ini
-    |    |    |    |----lib/
-    |    |    |    |    |----pyyaml/
-    |    |    |    |    |    |----MANIFEST.in
-    |    |    |    |    |    |----tox.ini
-    |    |    |    |    |    |----lib/
-    |    |    |    |    |    |    |----_yaml/
-    |    |    |    |    |    |    |    |----__init__.py
-    |    |    |    |    |    |    |----yaml/
-    |    |    |    |    |    |    |    |----representer.py
-    |    |    |    |    |    |    |    |----loader.py
-    |    |    |    |    |    |    |    |----resolver.py
-    |    |    |    |    |    |    |    |----scanner.py
-    |    |    |    |    |    |    |    |----cyaml.py
-    |    |    |    |    |    |    |    |----nodes.py
-    |    |    |    |    |    |    |    |----reader.py
-    |    |    |    |    |    |    |    |----constructor.py
-    |    |    |    |    |    |    |    |----emitter.py
-    |    |    |    |    |    |    |    |----serializer.py
-    |    |    |    |    |    |    |    |----events.py
-    |    |    |    |    |    |    |    |----__init__.py
-    |    |    |    |    |    |    |    |----composer.py
-    |    |    |    |    |    |    |    |----tokens.py
-    |    |    |    |    |    |    |    |----error.py
-    |    |    |    |    |    |    |    |----dumper.py
-    |    |    |    |    |    |    |    |----parser.py
-    |    |    |    |    |    |----.gitignore
-    |    |    |    |    |    |----setup.py
-    |    |    |    |    |    |----README.md
-    |    |    |    |    |    |----.git
-    |    |    |    |    |    |----packaging/
-    |    |    |    |    |    |    |----build/
-    |    |    |    |    |    |    |    |----smoketest.py
-    |    |    |    |    |    |    |    |----libyaml.sh
-    |    |    |    |    |    |----.github/
-    |    |    |    |    |    |    |----workflows/
-    |    |    |    |    |    |    |    |----ci.yaml
-    |    |    |    |    |    |    |    |----manual_artifact_build.yaml
-    |    |    |    |    |    |    |----SECURITY.md
-    |    |    |    |    |    |----examples/
-    |    |    |    |    |    |    |----yaml-highlight/
-    |    |    |    |    |    |    |    |----yaml_hl.py
-    |    |    |    |    |    |    |    |----yaml_hl.cfg
-    |    |    |    |    |    |    |----pygments-lexer/
-    |    |    |    |    |    |    |    |----yaml.py
-    |    |    |    |    |    |    |    |----example.yaml
-    |    |    |    |    |    |----pyproject.toml
-    |    |    |    |    |    |----CHANGES
-    |    |    |    |    |    |----Makefile
-    |    |    |    |    |    |----yaml/
-    |    |    |    |    |    |    |----__init__.pxd
-    |    |    |    |    |    |    |----_yaml.pyx
-    |    |    |    |    |    |    |----_yaml.pxd
-    |    |    |    |    |    |    |----_yaml.h
-    |    |    |    |    |    |----announcement.msg
-    |    |    |    |    |    |----tests/
-    |    |    |    |    |    |    |----lib/
-    |    |    |    |    |    |    |    |----test_tokens.py
-    |    |    |    |    |    |    |    |----test_yaml.py
-    |    |    |    |    |    |    |    |----test_build_ext.py
-    |    |    |    |    |    |    |    |----test_emitter.py
-    |    |    |    |    |    |    |    |----test_structure.py
-    |    |    |    |    |    |    |    |----test_reader.py
-    |    |    |    |    |    |    |    |----canonical.py
-    |    |    |    |    |    |    |    |----test_resolver.py
-    |    |    |    |    |    |    |    |----test_yaml_ext.py
-    |    |    |    |    |    |    |    |----test_errors.py
-    |    |    |    |    |    |    |    |----test_constructor.py
-    |    |    |    |    |    |    |    |----test_representer.py
-    |    |    |    |    |    |    |    |----test_sort_keys.py
-    |    |    |    |    |    |    |    |----test_recursive.py
-    |    |    |    |    |    |    |    |----test_input_output.py
-    |    |    |    |    |    |    |    |----test_build.py
-    |    |    |    |    |    |    |    |----test_multi_constructor.py
-    |    |    |    |    |    |    |    |----test_appliance.py
-    |    |    |    |    |    |    |    |----test_canonical.py
-    |    |    |    |    |    |    |    |----test_mark.py
-    |    |    |    |    |    |    |    |----test_all.py
-    |    |    |    |    |    |    |    |----test_dump_load.py
-    |    |    |    |    |    |    |    |----test_schema.py
-    |    |    |    |    |    |    |----data/
-    |    |    |    |    |    |    |    |----construct-binary-py2.code
-    |    |    |    |    |    |    |    |----test_mark.marks
-    |    |    |    |    |    |    |    |----yaml.data
-    |    |    |    |    |    |    |    |----spec-09-20.canonical
-    |    |    |    |    |    |    |    |----spec-07-12b.data
-    |    |    |    |    |    |    |    |----explicit-document.single-loader-error
-    |    |    |    |    |    |    |    |----serializer-is-closed-1.dumper-error
-    |    |    |    |    |    |    |    |----spec-10-08.data
-    |    |    |    |    |    |    |    |----invalid-python-bytes-py3.loader-error
-    |    |    |    |    |    |    |    |----spec-05-13.canonical
-    |    |    |    |    |    |    |    |----more-floats.code
-    |    |    |    |    |    |    |    |----spec-09-16.canonical
-    |    |    |    |    |    |    |    |----spec-09-05.canonical
-    |    |    |    |    |    |    |    |----invalid-tag-handle-1.emitter-error
-    |    |    |    |    |    |    |    |----spec-07-11.data
-    |    |    |    |    |    |    |    |----spec-02-03.data
-    |    |    |    |    |    |    |    |----recursive-anchor.former-loader-error
-    |    |    |    |    |    |    |    |----spec-08-13.canonical
-    |    |    |    |    |    |    |    |----unknown.dumper-error
-    |    |    |    |    |    |    |    |----undefined-tag-handle.loader-error
-    |    |    |    |    |    |    |    |----spec-09-13.canonical
-    |    |    |    |    |    |    |    |----construct-python-int.code
-    |    |    |    |    |    |    |    |----spec-02-09.structure
-    |    |    |    |    |    |    |    |----multi-constructor.code
-    |    |    |    |    |    |    |    |----spec-02-22.structure
-    |    |    |    |    |    |    |    |----invalid-python-name-kind.loader-error
-    |    |    |    |    |    |    |    |----spec-07-01.canonical
-    |    |    |    |    |    |    |    |----invalid-pairs-2.loader-error
-    |    |    |    |    |    |    |    |----spec-07-02.data
-    |    |    |    |    |    |    |    |----invalid-yaml-directive-version-3.loader-error
-    |    |    |    |    |    |    |    |----spec-08-11.data
-    |    |    |    |    |    |    |    |----spec-02-12.tokens
-    |    |    |    |    |    |    |    |----invalid-python-name-object.loader-error
-    |    |    |    |    |    |    |    |----spec-08-07.canonical
-    |    |    |    |    |    |    |    |----spec-06-05.canonical
-    |    |    |    |    |    |    |    |----construct-python-str-utf8-py3.data
-    |    |    |    |    |    |    |    |----spec-05-10.data
-    |    |    |    |    |    |    |    |----serializer-is-not-opened-1.dumper-error
-    |    |    |    |    |    |    |    |----construct-bool.data
-    |    |    |    |    |    |    |    |----mapping.sorted
-    |    |    |    |    |    |    |    |----construct-python-bool.code
-    |    |    |    |    |    |    |    |----spec-05-07.data
-    |    |    |    |    |    |    |    |----invalid-tag-2.loader-error
-    |    |    |    |    |    |    |    |----recursive.former-dumper-error
-    |    |    |    |    |    |    |    |----duplicate-merge-key.former-loader-error.data
-    |    |    |    |    |    |    |    |----construct-custom.data
-    |    |    |    |    |    |    |    |----construct-str.data
-    |    |    |    |    |    |    |    |----spec-10-06.data
-    |    |    |    |    |    |    |    |----invalid-merge-1.loader-error
-    |    |    |    |    |    |    |    |----str.detect
-    |    |    |    |    |    |    |    |----spec-09-01.data
-    |    |    |    |    |    |    |    |----spec-02-03.structure
-    |    |    |    |    |    |    |    |----spec-02-24.structure
-    |    |    |    |    |    |    |    |----spec-02-10.data
-    |    |    |    |    |    |    |    |----invalid-utf8-byte.stream-error
-    |    |    |    |    |    |    |    |----invalid-omap-2.loader-error
-    |    |    |    |    |    |    |    |----spec-09-26.data
-    |    |    |    |    |    |    |    |----float-representer-2.3-bug.data
-    |    |    |    |    |    |    |    |----spec-06-06.canonical
-    |    |    |    |    |    |    |    |----spec-10-12.canonical
-    |    |    |    |    |    |    |    |----spec-05-02-utf8.data
-    |    |    |    |    |    |    |    |----construct-python-long-short-py3.data
-    |    |    |    |    |    |    |    |----no-block-collection-end.loader-error
-    |    |    |    |    |    |    |    |----sequences.events
-    |    |    |    |    |    |    |    |----expected-mapping.loader-error
-    |    |    |    |    |    |    |    |----spec-09-17.canonical
-    |    |    |    |    |    |    |    |----empty-documents.single-loader-error
-    |    |    |    |    |    |    |    |----forbidden-value.loader-error
-    |    |    |    |    |    |    |    |----construct-python-unicode-ascii-py3.code
-    |    |    |    |    |    |    |    |----spec-08-12.canonical
-    |    |    |    |    |    |    |    |----spec-02-17.structure
-    |    |    |    |    |    |    |    |----construct-str-ascii.code
-    |    |    |    |    |    |    |    |----spec-02-23.data
-    |    |    |    |    |    |    |    |----utf16le.code
-    |    |    |    |    |    |    |    |----null.detect
-    |    |    |    |    |    |    |    |----spec-09-28.data
-    |    |    |    |    |    |    |    |----timestamp.detect
-    |    |    |    |    |    |    |    |----spec-09-20.skip-ext
-    |    |    |    |    |    |    |    |----spec-08-14.data
-    |    |    |    |    |    |    |    |----spec-02-04.data
-    |    |    |    |    |    |    |    |----spec-08-13.skip-ext
-    |    |    |    |    |    |    |    |----construct-str-utf8-py3.data
-    |    |    |    |    |    |    |    |----spec-02-06.tokens
-    |    |    |    |    |    |    |    |----spec-05-04.canonical
-    |    |    |    |    |    |    |    |----construct-python-bytes-py3.data
-    |    |    |    |    |    |    |    |----more-floats.data
-    |    |    |    |    |    |    |    |----spec-09-25.data
-    |    |    |    |    |    |    |    |----invalid-python-module-kind.loader-error
-    |    |    |    |    |    |    |    |----duplicate-mapping-key.former-loader-error.data
-    |    |    |    |    |    |    |    |----invalid-base64-data-2.loader-error
-    |    |    |    |    |    |    |    |----spec-10-07.data
-    |    |    |    |    |    |    |    |----construct-str-utf8-py2.code
-    |    |    |    |    |    |    |    |----spec-02-17.tokens
-    |    |    |    |    |    |    |    |----utf16le.data
-    |    |    |    |    |    |    |    |----spec-07-07a.canonical
-    |    |    |    |    |    |    |    |----recursive-list.recursive
-    |    |    |    |    |    |    |    |----spec-08-05.canonical
-    |    |    |    |    |    |    |    |----negative-float-bug.data
-    |    |    |    |    |    |    |    |----invalid-single-quote-bug.code
-    |    |    |    |    |    |    |    |----spec-02-11.data
-    |    |    |    |    |    |    |    |----invalid-uri-escapes-3.loader-error
-    |    |    |    |    |    |    |    |----spec-07-01.data
-    |    |    |    |    |    |    |    |----construct-map.code
-    |    |    |    |    |    |    |    |----forbidden-key.loader-error
-    |    |    |    |    |    |    |    |----construct-map.data
-    |    |    |    |    |    |    |    |----no-document-start.loader-error
-    |    |    |    |    |    |    |    |----construct-value.code
-    |    |    |    |    |    |    |    |----unacceptable-key.loader-error
-    |    |    |    |    |    |    |    |----construct-python-unicode-utf8-py3.code
-    |    |    |    |    |    |    |    |----latin.unicode
-    |    |    |    |    |    |    |    |----empty-anchor.emitter-error
-    |    |    |    |    |    |    |    |----spec-09-06.canonical
-    |    |    |    |    |    |    |    |----duplicate-mapping-key.former-loader-error.code
-    |    |    |    |    |    |    |    |----spec-09-01.canonical
-    |    |    |    |    |    |    |    |----spec-02-13.data
-    |    |    |    |    |    |    |    |----spec-09-07.canonical
-    |    |    |    |    |    |    |    |----yaml11.schema-skip
-    |    |    |    |    |    |    |    |----construct-python-unicode-utf8-py3.data
-    |    |    |    |    |    |    |    |----emoticons.unicode
-    |    |    |    |    |    |    |    |----spec-02-10.structure
-    |    |    |    |    |    |    |    |----invalid-python-name-module.loader-error
-    |    |    |    |    |    |    |    |----spec-02-03.tokens
-    |    |    |    |    |    |    |    |----invalid-anchor.emitter-error
-    |    |    |    |    |    |    |    |----construct-python-object.data
-    |    |    |    |    |    |    |    |----construct-pairs.data
-    |    |    |    |    |    |    |    |----spec-09-21.data
-    |    |    |    |    |    |    |    |----spec-07-13.canonical
-    |    |    |    |    |    |    |    |----spec-10-09.data
-    |    |    |    |    |    |    |    |----utf8.data
-    |    |    |    |    |    |    |    |----spec-02-27.structure
-    |    |    |    |    |    |    |    |----spec-06-02.empty
-    |    |    |    |    |    |    |    |----spec-02-09.data
-    |    |    |    |    |    |    |    |----spec-05-07.canonical
-    |    |    |    |    |    |    |    |----construct-python-str-ascii.code
-    |    |    |    |    |    |    |    |----spec-08-06.data
-    |    |    |    |    |    |    |    |----spec-02-15.tokens
-    |    |    |    |    |    |    |    |----expected-stream-start.emitter-error
-    |    |    |    |    |    |    |    |----spec-09-02.data
-    |    |    |    |    |    |    |    |----spec-10-12.data
-    |    |    |    |    |    |    |    |----empty-tag-prefix.emitter-error
-    |    |    |    |    |    |    |    |----spec-02-13.tokens
-    |    |    |    |    |    |    |    |----spec-07-09.data
-    |    |    |    |    |    |    |    |----invalid-escape-character.loader-error
-    |    |    |    |    |    |    |    |----construct-python-float.data
-    |    |    |    |    |    |    |    |----tags.events
-    |    |    |    |    |    |    |    |----spec-08-07.data
-    |    |    |    |    |    |    |    |----spec-07-01.skip-ext
-    |    |    |    |    |    |    |    |----spec-02-19.tokens
-    |    |    |    |    |    |    |    |----spec-09-12.data
-    |    |    |    |    |    |    |    |----emitting-unacceptable-unicode-character-bug-py3.code
-    |    |    |    |    |    |    |    |----bool.data
-    |    |    |    |    |    |    |    |----negative-float-bug.code
-    |    |    |    |    |    |    |    |----no-tag.emitter-error
-    |    |    |    |    |    |    |    |----spec-02-27.data
-    |    |    |    |    |    |    |    |----construct-python-name-module.code
-    |    |    |    |    |    |    |    |----invalid-tag-handle-2.emitter-error
-    |    |    |    |    |    |    |    |----spec-02-13.structure
-    |    |    |    |    |    |    |    |----spec-07-08.canonical
-    |    |    |    |    |    |    |    |----invalid-directive-line.loader-error
-    |    |    |    |    |    |    |    |----spec-09-31.canonical
-    |    |    |    |    |    |    |    |----spec-05-01-utf16le.data
-    |    |    |    |    |    |    |    |----unclosed-quoted-scalar.loader-error
-    |    |    |    |    |    |    |    |----spec-06-01.canonical
-    |    |    |    |    |    |    |    |----construct-python-unicode-ascii-py2.data
-    |    |    |    |    |    |    |    |----invalid-tag-1.loader-error
-    |    |    |    |    |    |    |    |----spec-02-06.structure
-    |    |    |    |    |    |    |    |----spec-02-17.data
-    |    |    |    |    |    |    |    |----invalid-yaml-directive-version-6.loader-error
-    |    |    |    |    |    |    |    |----serializer-is-not-opened-2.dumper-error
-    |    |    |    |    |    |    |    |----invalid-utf8-byte.loader-error
-    |    |    |    |    |    |    |    |----construct-python-complex.data
-    |    |    |    |    |    |    |    |----spec-09-30.data
-    |    |    |    |    |    |    |    |----invalid-uri-escapes-1.loader-error
-    |    |    |    |    |    |    |    |----scalars.events
-    |    |    |    |    |    |    |    |----aliases.events
-    |    |    |    |    |    |    |    |----spec-09-24.canonical
-    |    |    |    |    |    |    |    |----spec-02-19.structure
-    |    |    |    |    |    |    |    |----construct-python-name-module.data
-    |    |    |    |    |    |    |    |----spec-05-13.data
-    |    |    |    |    |    |    |    |----spec-02-21.tokens
-    |    |    |    |    |    |    |    |----spec-02-05.tokens
-    |    |    |    |    |    |    |    |----scan-line-break-bug.data
-    |    |    |    |    |    |    |    |----document-separator-in-quoted-scalar.loader-error
-    |    |    |    |    |    |    |    |----float.detect
-    |    |    |    |    |    |    |    |----spec-05-02-utf16be.error
-    |    |    |    |    |    |    |    |----spec-08-01.canonical
-    |    |    |    |    |    |    |    |----spec-02-07.tokens
-    |    |    |    |    |    |    |    |----spec-09-27.canonical
-    |    |    |    |    |    |    |    |----spec-06-05.data
-    |    |    |    |    |    |    |    |----spec-10-03.data
-    |    |    |    |    |    |    |    |----documents.events
-    |    |    |    |    |    |    |    |----recursive-dict.recursive
-    |    |    |    |    |    |    |    |----no-flow-mapping-end.loader-error
-    |    |    |    |    |    |    |    |----spec-02-19.data
-    |    |    |    |    |    |    |    |----spec-02-07.structure
-    |    |    |    |    |    |    |    |----invalid-python-name-value.loader-error
-    |    |    |    |    |    |    |    |----spec-09-31.data
-    |    |    |    |    |    |    |    |----no-node-1.loader-error
-    |    |    |    |    |    |    |    |----spec-07-02.canonical
-    |    |    |    |    |    |    |    |----spec-05-06.data
-    |    |    |    |    |    |    |    |----spec-05-15.error
-    |    |    |    |    |    |    |    |----spec-07-02.skip-ext
-    |    |    |    |    |    |    |    |----spec-08-03.canonical
-    |    |    |    |    |    |    |    |----spec-02-08.data
-    |    |    |    |    |    |    |    |----spec-10-15.data
-    |    |    |    |    |    |    |    |----multi-constructor.multi
-    |    |    |    |    |    |    |    |----spec-07-06.data
-    |    |    |    |    |    |    |    |----spec-09-08.canonical
-    |    |    |    |    |    |    |    |----int.data
-    |    |    |    |    |    |    |    |----spec-06-08.canonical
-    |    |    |    |    |    |    |    |----spec-07-04.canonical
-    |    |    |    |    |    |    |    |----spec-10-15.canonical
-    |    |    |    |    |    |    |    |----spec-10-08.error
-    |    |    |    |    |    |    |    |----invalid-tag-directive-prefix.loader-error
-    |    |    |    |    |    |    |    |----myfullloader.subclass_blacklist
-    |    |    |    |    |    |    |    |----spec-10-11.data
-    |    |    |    |    |    |    |    |----construct-python-unicode-utf8-py2.code
-    |    |    |    |    |    |    |    |----undefined-constructor.loader-error
-    |    |    |    |    |    |    |    |----duplicate-yaml-directive.loader-error
-    |    |    |    |    |    |    |    |----spec-09-32.data
-    |    |    |    |    |    |    |    |----emitting-unacceptable-unicode-character-bug-py3.data
-    |    |    |    |    |    |    |    |----spec-06-03.canonical
-    |    |    |    |    |    |    |    |----unclosed-bracket.loader-error
-    |    |    |    |    |    |    |    |----emitting-unacceptable-unicode-character-bug.skip-ext
-    |    |    |    |    |    |    |    |----spec-02-20.tokens
-    |    |    |    |    |    |    |    |----spec-09-08.data
-    |    |    |    |    |    |    |    |----construct-float.code
-    |    |    |    |    |    |    |    |----spec-10-13.canonical
-    |    |    |    |    |    |    |    |----invalid-block-scalar-indicator.loader-error
-    |    |    |    |    |    |    |    |----spec-05-05.data
-    |    |    |    |    |    |    |    |----spec-05-14.data
-    |    |    |    |    |    |    |    |----spec-09-22.data
-    |    |    |    |    |    |    |    |----spec-02-12.data
-    |    |    |    |    |    |    |    |----spec-02-04.tokens
-    |    |    |    |    |    |    |    |----spec-09-29.canonical
-    |    |    |    |    |    |    |    |----spec-07-12a.data
-    |    |    |    |    |    |    |    |----spec-05-01-utf16be.empty
-    |    |    |    |    |    |    |    |----merge.data
-    |    |    |    |    |    |    |    |----spec-07-09.canonical
-    |    |    |    |    |    |    |    |----invalid-yaml-directive-version-4.loader-error
-    |    |    |    |    |    |    |    |----spec-07-05.error
-    |    |    |    |    |    |    |    |----spec-09-33.data
-    |    |    |    |    |    |    |    |----emit-block-scalar-in-simple-key-context-bug.data
-    |    |    |    |    |    |    |    |----spec-05-01-utf16le.empty
-    |    |    |    |    |    |    |    |----construct-str.code
-    |    |    |    |    |    |    |    |----invalid-character.loader-error
-    |    |    |    |    |    |    |    |----construct-null.code
-    |    |    |    |    |    |    |    |----spec-10-13.data
-    |    |    |    |    |    |    |    |----int.detect
-    |    |    |    |    |    |    |    |----construct-python-str-utf8-py2.code
-    |    |    |    |    |    |    |    |----invalid-character.stream-error
-    |    |    |    |    |    |    |    |----invalid-yaml-directive-version-5.loader-error
-    |    |    |    |    |    |    |    |----spec-06-07.data
-    |    |    |    |    |    |    |    |----spec-02-02.data
-    |    |    |    |    |    |    |    |----spec-10-10.data
-    |    |    |    |    |    |    |    |----spec-05-10.error
-    |    |    |    |    |    |    |    |----spec-02-09.tokens
-    |    |    |    |    |    |    |    |----invalid-tag-handle-1.loader-error
-    |    |    |    |    |    |    |    |----spec-02-24.tokens
-    |    |    |    |    |    |    |    |----invalid-python-module-value.loader-error
-    |    |    |    |    |    |    |    |----construct-python-long-short-py3.code
-    |    |    |    |    |    |    |    |----emitting-unacceptable-unicode-character-bug.data
-    |    |    |    |    |    |    |    |----no-alias-anchor.skip-ext
-    |    |    |    |    |    |    |    |----invalid-tag-handle-2.loader-error
-    |    |    |    |    |    |    |    |----spec-08-09.canonical
-    |    |    |    |    |    |    |    |----spec-02-23.tokens
-    |    |    |    |    |    |    |    |----spec-09-18.data
-    |    |    |    |    |    |    |    |----spec-05-08.canonical
-    |    |    |    |    |    |    |    |----spec-08-01.data
-    |    |    |    |    |    |    |    |----spec-10-04.canonical
-    |    |    |    |    |    |    |    |----spec-09-10.canonical
-    |    |    |    |    |    |    |    |----spec-02-01.structure
-    |    |    |    |    |    |    |    |----invalid-pairs-1.loader-error
-    |    |    |    |    |    |    |    |----spec-02-22.data
-    |    |    |    |    |    |    |    |----spec-09-25.canonical
-    |    |    |    |    |    |    |    |----spec-08-08.canonical
-    |    |    |    |    |    |    |    |----spec-08-03.data
-    |    |    |    |    |    |    |    |----spec-05-04.data
-    |    |    |    |    |    |    |    |----expected-node-1.emitter-error
-    |    |    |    |    |    |    |    |----expected-nothing.emitter-error
-    |    |    |    |    |    |    |    |----construct-binary-py3.data
-    |    |    |    |    |    |    |    |----run-parser-crash-bug.data
-    |    |    |    |    |    |    |    |----spec-09-33.canonical
-    |    |    |    |    |    |    |    |----duplicate-value-key.former-loader-error.code
-    |    |    |    |    |    |    |    |----spec-02-10.tokens
-    |    |    |    |    |    |    |    |----empty-document-bug.empty
-    |    |    |    |    |    |    |    |----construct-python-none.code
-    |    |    |    |    |    |    |    |----spec-08-10.canonical
-    |    |    |    |    |    |    |    |----empty-document-bug.data
-    |    |    |    |    |    |    |    |----spec-08-04.data
-    |    |    |    |    |    |    |    |----spec-02-21.structure
-    |    |    |    |    |    |    |    |----no-node-2.loader-error
-    |    |    |    |    |    |    |    |----construct-seq.data
-    |    |    |    |    |    |    |    |----resolver.data
-    |    |    |    |    |    |    |    |----construct-custom.code
-    |    |    |    |    |    |    |    |----construct-int.code
-    |    |    |    |    |    |    |    |----spec-09-29.data
-    |    |    |    |    |    |    |    |----resolver.path
-    |    |    |    |    |    |    |    |----construct-python-str-utf8-py3.code
-    |    |    |    |    |    |    |    |----construct-python-unicode-utf8-py2.data
-    |    |    |    |    |    |    |    |----utf16be.data
-    |    |    |    |    |    |    |    |----spec-10-04.data
-    |    |    |    |    |    |    |    |----invalid-anchor-2.loader-error
-    |    |    |    |    |    |    |    |----spec-02-05.structure
-    |    |    |    |    |    |    |    |----sloppy-indentation.canonical
-    |    |    |    |    |    |    |    |----construct-python-unicode-ascii-py3.data
-    |    |    |    |    |    |    |    |----construct-python-long-short-py2.data
-    |    |    |    |    |    |    |    |----recursive-set.recursive
-    |    |    |    |    |    |    |    |----value.data
-    |    |    |    |    |    |    |    |----construct-python-unicode-ascii-py2.code
-    |    |    |    |    |    |    |    |----spec-09-23.data
-    |    |    |    |    |    |    |    |----utf8-implicit.code
-    |    |    |    |    |    |    |    |----spec-02-12.structure
-    |    |    |    |    |    |    |    |----spec-08-11.canonical
-    |    |    |    |    |    |    |    |----bool.detect
-    |    |    |    |    |    |    |    |----construct-timestamp.data
-    |    |    |    |    |    |    |    |----spec-07-06.canonical
-    |    |    |    |    |    |    |    |----spec-08-02.canonical
-    |    |    |    |    |    |    |    |----spec-02-26.structure
-    |    |    |    |    |    |    |    |----spec-09-06.data
-    |    |    |    |    |    |    |    |----construct-str-ascii.data
-    |    |    |    |    |    |    |    |----str.data
-    |    |    |    |    |    |    |    |----construct-value.data
-    |    |    |    |    |    |    |    |----spec-07-12b.canonical
-    |    |    |    |    |    |    |    |----construct-seq.code
-    |    |    |    |    |    |    |    |----duplicate-value-key.former-loader-error.data
-    |    |    |    |    |    |    |    |----spec-02-21.data
-    |    |    |    |    |    |    |    |----spec-09-15.data
-    |    |    |    |    |    |    |    |----spec-02-16.tokens
-    |    |    |    |    |    |    |    |----construct-set.code
-    |    |    |    |    |    |    |    |----spec-10-03.canonical
-    |    |    |    |    |    |    |    |----spec-09-03.canonical
-    |    |    |    |    |    |    |    |----spec-09-03.data
-    |    |    |    |    |    |    |    |----spec-08-04.error
-    |    |    |    |    |    |    |    |----spec-08-10.data
-    |    |    |    |    |    |    |    |----spec-09-04.canonical
-    |    |    |    |    |    |    |    |----spec-05-01-utf16be.data
-    |    |    |    |    |    |    |    |----spec-08-13.data
-    |    |    |    |    |    |    |    |----spec-06-08.data
-    |    |    |    |    |    |    |    |----spec-02-15.data
-    |    |    |    |    |    |    |    |----spec-07-13.data
-    |    |    |    |    |    |    |    |----remove-possible-simple-key-bug.loader-error
-    |    |    |    |    |    |    |    |----spec-09-09.data
-    |    |    |    |    |    |    |    |----spec-02-06.data
-    |    |    |    |    |    |    |    |----invalid-omap-3.loader-error
-    |    |    |    |    |    |    |    |----spec-06-07.canonical
-    |    |    |    |    |    |    |    |----spec-07-04.data
-    |    |    |    |    |    |    |    |----construct-python-complex.code
-    |    |    |    |    |    |    |    |----spec-08-15.data
-    |    |    |    |    |    |    |    |----spec-06-04.data
-    |    |    |    |    |    |    |    |----no-block-mapping-end-2.loader-error
-    |    |    |    |    |    |    |    |----spec-07-05.data
-    |    |    |    |    |    |    |    |----spec-05-11.canonical
-    |    |    |    |    |    |    |    |----spec-09-04.data
-    |    |    |    |    |    |    |    |----spec-10-02.data
-    |    |    |    |    |    |    |    |----spec-09-09.canonical
-    |    |    |    |    |    |    |    |----spec-02-14.structure
-    |    |    |    |    |    |    |    |----timestamp.data
-    |    |    |    |    |    |    |    |----construct-timestamp.code
-    |    |    |    |    |    |    |    |----spec-09-19.canonical
-    |    |    |    |    |    |    |    |----spec-08-12.data
-    |    |    |    |    |    |    |    |----spec-10-07.canonical
-    |    |    |    |    |    |    |    |----serializer-is-already-opened.dumper-error
-    |    |    |    |    |    |    |    |----spec-09-14.data
-    |    |    |    |    |    |    |    |----duplicate-key.former-loader-error.code
-    |    |    |    |    |    |    |    |----spec-09-24.data
-    |    |    |    |    |    |    |    |----spec-09-28.canonical
-    |    |    |    |    |    |    |    |----value.detect
-    |    |    |    |    |    |    |    |----implicit-document.single-loader-error
-    |    |    |    |    |    |    |    |----spec-02-24.data
-    |    |    |    |    |    |    |    |----spec-05-02-utf16le.data
-    |    |    |    |    |    |    |    |----spec-02-20.data
-    |    |    |    |    |    |    |    |----spec-09-14.error
-    |    |    |    |    |    |    |    |----invalid-escape-numbers.loader-error
-    |    |    |    |    |    |    |    |----recursive-tuple.recursive
-    |    |    |    |    |    |    |    |----spec-09-05.data
-    |    |    |    |    |    |    |    |----spec-07-08.data
-    |    |    |    |    |    |    |    |----spec-07-12a.canonical
-    |    |    |    |    |    |    |    |----spec-06-01.data
-    |    |    |    |    |    |    |    |----spec-09-10.data
-    |    |    |    |    |    |    |    |----invalid-anchor-1.loader-error
-    |    |    |    |    |    |    |    |----spec-07-10.data
-    |    |    |    |    |    |    |    |----spec-08-02.data
-    |    |    |    |    |    |    |    |----spec-09-18.canonical
-    |    |    |    |    |    |    |    |----spec-10-01.canonical
-    |    |    |    |    |    |    |    |----invalid-starting-character.loader-error
-    |    |    |    |    |    |    |    |----invalid-pairs-3.loader-error
-    |    |    |    |    |    |    |    |----expected-sequence.loader-error
-    |    |    |    |    |    |    |    |----forbidden-entry.loader-error
-    |    |    |    |    |    |    |    |----spec-10-14.canonical
-    |    |    |    |    |    |    |    |----spec-10-02.canonical
-    |    |    |    |    |    |    |    |----construct-omap.code
-    |    |    |    |    |    |    |    |----invalid-yaml-version.loader-error
-    |    |    |    |    |    |    |    |----construct-python-bytes-py3.code
-    |    |    |    |    |    |    |    |----empty-document-bug.canonical
-    |    |    |    |    |    |    |    |----construct-pairs.code
-    |    |    |    |    |    |    |    |----mappings.events
-    |    |    |    |    |    |    |    |----no-block-mapping-end.loader-error
-    |    |    |    |    |    |    |    |----spec-02-01.tokens
-    |    |    |    |    |    |    |    |----invalid-simple-key.loader-error
-    |    |    |    |    |    |    |    |----sloppy-indentation.data
-    |    |    |    |    |    |    |    |----spec-05-03.data
-    |    |    |    |    |    |    |    |----scan-document-end-bug.data
-    |    |    |    |    |    |    |    |----spec-08-05.data
-    |    |    |    |    |    |    |    |----construct-python-tuple-list-dict.data
-    |    |    |    |    |    |    |    |----spec-02-28.structure
-    |    |    |    |    |    |    |    |----spec-05-11.data
-    |    |    |    |    |    |    |    |----spec-10-10.canonical
-    |    |    |    |    |    |    |    |----timestamp-bugs.data
-    |    |    |    |    |    |    |    |----timestamp-bugs.code
-    |    |    |    |    |    |    |    |----spec-02-08.tokens
-    |    |    |    |    |    |    |    |----duplicate-anchor-1.loader-error
-    |    |    |    |    |    |    |    |----spec-10-14.data
-    |    |    |    |    |    |    |    |----spec-05-14.canonical
-    |    |    |    |    |    |    |    |----empty-tag-handle.emitter-error
-    |    |    |    |    |    |    |    |----invalid-omap-1.loader-error
-    |    |    |    |    |    |    |    |----spec-02-02.tokens
-    |    |    |    |    |    |    |    |----spec-02-18.data
-    |    |    |    |    |    |    |    |----spec-09-26.canonical
-    |    |    |    |    |    |    |    |----construct-python-object.code
-    |    |    |    |    |    |    |    |----utf8.code
-    |    |    |    |    |    |    |    |----spec-05-01-utf8.empty
-    |    |    |    |    |    |    |    |----construct-merge.code
-    |    |    |    |    |    |    |    |----construct-binary-py2.data
-    |    |    |    |    |    |    |    |----spec-08-09.data
-    |    |    |    |    |    |    |    |----spec-09-20.data
-    |    |    |    |    |    |    |    |----spec-09-15.canonical
-    |    |    |    |    |    |    |    |----float-representer-2.3-bug.code
-    |    |    |    |    |    |    |    |----invalid-uri-escapes-2.loader-error
-    |    |    |    |    |    |    |    |----invalid-directive-name-2.loader-error
-    |    |    |    |    |    |    |    |----construct-python-str-utf8-py2.data
-    |    |    |    |    |    |    |    |----invalid-item-without-trailing-break.loader-error
-    |    |    |    |    |    |    |    |----spec-02-25.structure
-    |    |    |    |    |    |    |    |----no-alias-anchor.emitter-error
-    |    |    |    |    |    |    |    |----invalid-single-quote-bug.data
-    |    |    |    |    |    |    |    |----invalid-uri.loader-error
-    |    |    |    |    |    |    |    |----invalid-tag-directive-handle.loader-error
-    |    |    |    |    |    |    |    |----spec-05-08.data
-    |    |    |    |    |    |    |    |----scan-document-end-bug.canonical
-    |    |    |    |    |    |    |    |----unsupported-version.emitter-error
-    |    |    |    |    |    |    |    |----spec-07-11.empty
-    |    |    |    |    |    |    |    |----spec-10-11.canonical
-    |    |    |    |    |    |    |    |----construct-merge.data
-    |    |    |    |    |    |    |    |----construct-null.data
-    |    |    |    |    |    |    |    |----invalid-yaml-directive-version-2.loader-error
-    |    |    |    |    |    |    |    |----overwrite-state-new-constructor.loader-error
-    |    |    |    |    |    |    |    |----fetch-complex-value-bug.loader-error
-    |    |    |    |    |    |    |    |----construct-python-int.data
-    |    |    |    |    |    |    |    |----spec-02-08.structure
-    |    |    |    |    |    |    |    |----spec-05-05.empty
-    |    |    |    |    |    |    |    |----expected-node-2.emitter-error
-    |    |    |    |    |    |    |    |----spec-05-12.data
-    |    |    |    |    |    |    |    |----spec-02-02.structure
-    |    |    |    |    |    |    |    |----empty-python-name.loader-error
-    |    |    |    |    |    |    |    |----utf16be.code
-    |    |    |    |    |    |    |    |----spec-02-27.tokens
-    |    |    |    |    |    |    |    |----construct-python-tuple-list-dict.code
-    |    |    |    |    |    |    |    |----scan-line-break-bug.canonical
-    |    |    |    |    |    |    |    |----spec-09-12.canonical
-    |    |    |    |    |    |    |    |----spec-02-25.data
-    |    |    |    |    |    |    |    |----spec-09-23.canonical
-    |    |    |    |    |    |    |    |----spec-02-15.structure
-    |    |    |    |    |    |    |    |----invalid-base64-data.loader-error
-    |    |    |    |    |    |    |    |----invalid-directive-name-1.loader-error
-    |    |    |    |    |    |    |    |----spec-09-07.data
-    |    |    |    |    |    |    |    |----spec-06-02.data
-    |    |    |    |    |    |    |    |----duplicate-key.former-loader-error.data
-    |    |    |    |    |    |    |    |----spec-05-12.error
-    |    |    |    |    |    |    |    |----spec-10-05.data
-    |    |    |    |    |    |    |    |----spec-02-16.data
-    |    |    |    |    |    |    |    |----spec-08-08.data
-    |    |    |    |    |    |    |    |----a-nasty-libyaml-bug.loader-error
-    |    |    |    |    |    |    |    |----empty-python-module.loader-error
-    |    |    |    |    |    |    |    |----invalid-python-bytes-2-py3.loader-error
-    |    |    |    |    |    |    |    |----construct-int.data
-    |    |    |    |    |    |    |    |----spec-09-02.canonical
-    |    |    |    |    |    |    |    |----spec-09-19.data
-    |    |    |    |    |    |    |    |----spec-07-03.data
-    |    |    |    |    |    |    |    |----spec-02-07.data
-    |    |    |    |    |    |    |    |----spec-09-30.canonical
-    |    |    |    |    |    |    |    |----spec-02-28.data
-    |    |    |    |    |    |    |    |----spec-06-06.data
-    |    |    |    |    |    |    |    |----spec-05-09.canonical
-    |    |    |    |    |    |    |    |----spec-02-11.tokens
-    |    |    |    |    |    |    |    |----spec-02-22.tokens
-    |    |    |    |    |    |    |    |----invalid-python-module.loader-error
-    |    |    |    |    |    |    |    |----construct-python-bool.data
-    |    |    |    |    |    |    |    |----construct-python-none.data
-    |    |    |    |    |    |    |    |----spec-09-32.canonical
-    |    |    |    |    |    |    |    |----empty-tag.emitter-error
-    |    |    |    |    |    |    |    |----spec-09-13.data
-    |    |    |    |    |    |    |    |----mapping.sort
-    |    |    |    |    |    |    |    |----duplicate-merge-key.former-loader-error.code
-    |    |    |    |    |    |    |    |----invalid-yaml-directive-version-1.loader-error
-    |    |    |    |    |    |    |    |----spec-07-07a.data
-    |    |    |    |    |    |    |    |----spec-02-23.structure
-    |    |    |    |    |    |    |    |----null.data
-    |    |    |    |    |    |    |    |----spec-05-02-utf8.error
-    |    |    |    |    |    |    |    |----serializer-is-closed-2.dumper-error
-    |    |    |    |    |    |    |    |----yaml11.schema
-    |    |    |    |    |    |    |    |----duplicate-anchor-2.loader-error
-    |    |    |    |    |    |    |    |----spec-05-02-utf16le.error
-    |    |    |    |    |    |    |    |----undefined-anchor.loader-error
-    |    |    |    |    |    |    |    |----construct-python-str-ascii.data
-    |    |    |    |    |    |    |    |----spec-02-16.structure
-    |    |    |    |    |    |    |    |----spec-02-20.structure
-    |    |    |    |    |    |    |    |----spec-02-01.data
-    |    |    |    |    |    |    |    |----no-flow-sequence-end.loader-error
-    |    |    |    |    |    |    |    |----spec-02-14.tokens
-    |    |    |    |    |    |    |    |----spec-09-11.data
-    |    |    |    |    |    |    |    |----spec-02-18.tokens
-    |    |    |    |    |    |    |    |----spec-08-06.error
-    |    |    |    |    |    |    |    |----spec-09-27.data
-    |    |    |    |    |    |    |    |----spec-06-04.canonical
-    |    |    |    |    |    |    |    |----construct-str-utf8-py2.data
-    |    |    |    |    |    |    |    |----single-dot-is-not-float-bug.code
-    |    |    |    |    |    |    |    |----spec-02-05.data
-    |    |    |    |    |    |    |    |----odd-utf16.stream-error
-    |    |    |    |    |    |    |    |----construct-python-long-short-py2.code
-    |    |    |    |    |    |    |    |----expected-document-start.emitter-error
-    |    |    |    |    |    |    |    |----invalid-merge-2.loader-error
-    |    |    |    |    |    |    |    |----spec-05-01-utf8.data
-    |    |    |    |    |    |    |    |----spec-02-04.structure
-    |    |    |    |    |    |    |    |----spec-08-15.canonical
-    |    |    |    |    |    |    |    |----utf8-implicit.data
-    |    |    |    |    |    |    |    |----spec-02-25.tokens
-    |    |    |    |    |    |    |    |----spec-07-10.canonical
-    |    |    |    |    |    |    |    |----spec-05-03.canonical
-    |    |    |    |    |    |    |    |----merge.detect
-    |    |    |    |    |    |    |    |----construct-omap.data
-    |    |    |    |    |    |    |    |----spec-05-06.canonical
-    |    |    |    |    |    |    |    |----emit-block-scalar-in-simple-key-context-bug.canonical
-    |    |    |    |    |    |    |    |----spec-09-21.error
-    |    |    |    |    |    |    |    |----invalid-indentation-indicator-1.loader-error
-    |    |    |    |    |    |    |    |----spec-02-18.structure
-    |    |    |    |    |    |    |    |----spec-09-22.canonical
-    |    |    |    |    |    |    |    |----spec-09-17.data
-    |    |    |    |    |    |    |    |----single-dot-is-not-float-bug.data
-    |    |    |    |    |    |    |    |----construct-binary-py3.code
-    |    |    |    |    |    |    |    |----spec-05-09.data
-    |    |    |    |    |    |    |    |----spec-05-15.data
-    |    |    |    |    |    |    |    |----spec-02-11.structure
-    |    |    |    |    |    |    |    |----spec-08-14.canonical
-    |    |    |    |    |    |    |    |----spec-02-26.data
-    |    |    |    |    |    |    |    |----construct-bool.code
-    |    |    |    |    |    |    |    |----emitting-unacceptable-unicode-character-bug-py3.skip-ext
-    |    |    |    |    |    |    |    |----spec-09-16.data
-    |    |    |    |    |    |    |    |----construct-set.data
-    |    |    |    |    |    |    |    |----spec-02-14.data
-    |    |    |    |    |    |    |    |----yaml.detect
-    |    |    |    |    |    |    |    |----spec-02-26.tokens
-    |    |    |    |    |    |    |    |----spec-07-07b.data
-    |    |    |    |    |    |    |    |----aliases-cdumper-bug.code
-    |    |    |    |    |    |    |    |----spec-10-06.canonical
-    |    |    |    |    |    |    |    |----expected-document-end.emitter-error
-    |    |    |    |    |    |    |    |----spec-06-03.data
-    |    |    |    |    |    |    |    |----spec-10-09.canonical
-    |    |    |    |    |    |    |    |----spec-10-05.canonical
-    |    |    |    |    |    |    |    |----construct-float.data
-    |    |    |    |    |    |    |    |----spec-09-11.canonical
-    |    |    |    |    |    |    |    |----construct-str-utf8-py3.code
-    |    |    |    |    |    |    |    |----spec-10-01.data
-    |    |    |    |    |    |    |    |----spec-05-02-utf16be.data
-    |    |    |    |    |    |    |    |----invalid-indentation-indicator-2.loader-error
-    |    |    |    |    |    |    |    |----spec-07-07b.canonical
-    |    |    |    |    |    |    |    |----float.data
-    |    |    |    |    |    |    |    |----spec-02-28.tokens
-    |    |    |    |    |    |    |    |----expected-scalar.loader-error
-    |    |    |    |    |    |    |    |----spec-07-03.error
-    |    |    |    |    |    |    |    |----emoticons2.unicode
-    |    |    |    |    |    |    |    |----duplicate-tag-directive.loader-error
-    |    |    |    |    |    |    |    |----emitting-unacceptable-unicode-character-bug.code
-    |    |    |    |    |    |    |    |----construct-python-float.code
-    |    |    |    |    |    |    |    |----recursive-state.recursive
-    |    |    |    |    |    |----LICENSE
-    |    |    |    |----bin/
-    |    |    |    |    |----dotbot
-    |    |    |    |----LICENSE.md
-    |    |    |    |----.gitignore
-    |    |    |    |----setup.py
-    |    |    |    |----CONTRIBUTING.md
-    |    |    |    |----README.md
-    |    |    |    |----.git
-    |    |    |    |----.gitmodules
-    |    |    |    |----tools/
-    |    |    |    |    |----git-submodule/
-    |    |    |    |    |    |----install.ps1
-    |    |    |    |    |    |----install
-    |    |    |    |    |----hg-subrepo/
-    |    |    |    |    |    |----install.ps1
-    |    |    |    |    |    |----install
-    |    |    |    |----.github/
-    |    |    |    |    |----workflows/
-    |    |    |    |    |    |----ci.yml
-    |    |    |    |----pyproject.toml
-    |    |    |    |----tests/
-    |    |    |    |    |----test_bin_dotbot.py
-    |    |    |    |    |----conftest.py
-    |    |    |    |    |----dotbot_plugin_file.py
-    |    |    |    |    |----dotbot_plugin_directory.py
-    |    |    |    |    |----test_shell.py
-    |    |    |    |    |----test_shim.py
-    |    |    |    |    |----test_link.py
-    |    |    |    |    |----test_noop.py
-    |    |    |    |    |----test_config.py
-    |    |    |    |    |----test_cli.py
-    |    |    |    |    |----test_clean.py
-    |    |    |    |    |----test_create.py
-    |    |    |    |----dotbot/
-    |    |    |    |    |----messenger/
-    |    |    |    |    |    |----color.py
-    |    |    |    |    |    |----level.py
-    |    |    |    |    |    |----__init__.py
-    |    |    |    |    |    |----messenger.py
-    |    |    |    |    |----dispatcher.py
-    |    |    |    |    |----util/
-    |    |    |    |    |    |----string.py
-    |    |    |    |    |    |----common.py
-    |    |    |    |    |    |----__init__.py
-    |    |    |    |    |    |----module.py
-    |    |    |    |    |    |----singleton.py
-    |    |    |    |    |----config.py
-    |    |    |    |    |----plugins/
-    |    |    |    |    |    |----link.py
-    |    |    |    |    |    |----shell.py
-    |    |    |    |    |    |----__init__.py
-    |    |    |    |    |    |----create.py
-    |    |    |    |    |    |----clean.py
-    |    |    |    |    |----plugin.py
-    |    |    |    |    |----__init__.py
-    |    |    |    |    |----__main__.py
-    |    |    |    |    |----cli.py
-    |    |    |    |    |----context.py
-    |    |----LICENSE
-    |----nghia-delete-empty-folder/
-    |    |----nghia-delete-empty-folder.code-workspace
-    |    |----.gitignore
     |    |----README.md
+    |----nghia-ubuntu-link/
+    |    |----.gitignore
     |    |----contents/
-    |    |    |----input-nghia-delete-empty-folder/
-    |    |    |----nghia-delete-empty-folder.py
+    |    |    |----code/
+    |    |    |----contents/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-ubuntu-link/
+    |    |    |----nghia-ubuntu-link.py
+    |    |    |----output/
+    |    |    |----video/
+    |    |----nghia-ubuntu-link.code-workspace
+    |    |----README.md
+    |----nghia-view-tree/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----code/
+    |    |    |----contents/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-view-tree/
+    |    |    |----nghia-view-tree.py
+    |    |    |----output/
+    |    |    |    |----.gitignore
+    |    |    |----output.txt
+    |    |    |----video/
+    |    |----nghia-view-tree.code-workspace
+    |    |----README.md
+    |----nghia-wifi-proxy/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----ubuntu.py
+    |    |    |----windows.py
+    |    |----nghia-wifi-proxy.code-workspace
+    |    |----README.md
+    |----nghia-windows-autohotkey/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----AutoHotkey/
+    |    |    |----code/
+    |    |    |----contents/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----nghia-AutoHotkey/
+    |    |    |----nghia-windows-autohotkey.py
+    |    |    |----nghia.ahk
+    |    |    |----nghia.py
+    |    |    |----output/
+    |    |    |----video/
+    |    |----nghia-windows-autohotkey.code-workspace
+    |    |----README.md
+    |----whynotnghiavu/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----.gitignore
+    |    |    |----code/
+    |    |    |----documents/
+    |    |    |----input/
+    |    |    |----modules/
+    |    |    |----output/
+    |    |    |----video/
+    |    |    |----whynotnghiavu.py
+    |    |----README.md
+    |    |----whynotnghiavu.code-workspace

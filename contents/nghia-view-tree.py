@@ -25,6 +25,7 @@ def display(directory, indent='', output_file=None, ignore_folders=None):
 folder_path = r"C:\Users\VuVanNghia20206205\Desktop\flask-hello-world"
 folder_path = r"input"
 folder_path = r"/home/vvn20206205/Desktop/Git/company20206205"
+folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu"
 
 
 output_file = "output.txt"
