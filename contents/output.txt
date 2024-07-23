@@ -2,10 +2,25 @@
     |----nghia-chrome-bookmarks/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----.gitignore
+    |    |    |----backup/
+    |    |    |----Browser/
+    |    |    |    |----1bookmarks_12_31_23.html
+    |    |    |    |----2bookmarks_12_31_23.html
+    |    |    |    |----abookmarks_12_3_23.html
+    |    |    |    |----bookmarks_11_4_23.html
+    |    |    |    |----bookmarks_12_31_23.html
+    |    |    |    |----bookmarks_12_3_23.html
+    |    |    |    |----bookmarks_1_29_24.html
+    |    |    |    |----favorites_12_31_23.html
+    |    |    |    |----favorites_12_3_23.html
+    |    |    |    |----input.html
+    |    |    |    |----output.html
+    |    |    |----contents/
+    |    |    |----nghia-bookmarks/
     |    |    |----nghia-chrome-bookmarks.py
     |    |----nghia-chrome-bookmarks.code-workspace
     |    |----README.md
+    |    |----temp/
     |----nghia-chrome-extensions/
     |    |----.gitignore
     |    |----contents/
