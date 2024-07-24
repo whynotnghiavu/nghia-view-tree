@@ -6,6 +6,9 @@
     |    |    |    |----1bookmarks_12_31_23.html
     |    |    |    |----2bookmarks_12_31_23.html
     |    |    |    |----abookmarks_12_3_23.html
+    |    |    |    |----backup/
+    |    |    |    |    |----input.html
+    |    |    |    |    |----output.html
     |    |    |    |----bookmarks_11_4_23.html
     |    |    |    |----bookmarks_12_31_23.html
     |    |    |    |----bookmarks_12_3_23.html
@@ -15,6 +18,7 @@
     |    |    |    |----input.html
     |    |    |    |----output.html
     |    |    |----input.html
+    |    |    |----nghia-bookmarks/
     |    |    |----nghia-chrome-bookmarks.py
     |    |    |----output.html
     |    |----nghia-chrome-bookmarks.code-workspace
@@ -25,10 +29,20 @@
     |    |    |----index.html
     |    |----nghia-chrome-extensions.code-workspace
     |    |----README.md
+    |----nghia-chrome-passwords/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----Chrome Passwords.csv
+    |    |    |----index.csv
+    |    |----nghia-chrome-passwords.code-workspace
+    |    |----README.md
     |----nghia-course/
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
+    |    |    |----contents/
+    |    |    |    |----.gitignore
+    |    |    |----nghia-course/
     |    |    |----nghia-course.py
     |    |----nghia-course.code-workspace
     |    |----README.md
@@ -36,6 +50,7 @@
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
+    |    |    |----input-nghia-delete-empty-folder/
     |    |    |----nghia-delete-empty-folder.py
     |    |----nghia-delete-empty-folder.code-workspace
     |    |----README.md
@@ -46,6 +61,12 @@
     |    |    |----nghia-english.py
     |    |----nghia-english.code-workspace
     |    |----README.md
+    |----nghia-format-gui/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----nghia-format-gui.py
+    |    |----nghia-format-gui.code-workspace
+    |    |----README.md
     |----nghia-github-cli/
     |    |----.gitignore
     |    |----contents/
@@ -55,7 +76,11 @@
     |----nghia-github-clone-all/
     |    |----.gitignore
     |    |----contents/
+    |    |    |----nghia-github-clone-all/
+    |    |    |    |----contents/
     |    |    |----nghia-github-clone-all.py
+    |    |----nghia-delete-empty-folder/
+    |    |    |----contents/
     |    |----nghia-github-clone-all.code-workspace
     |    |----README.md
     |----nghia-github-gitconfig/
@@ -75,6 +100,8 @@
     |    |----.gitignore
     |    |----contents/
     |    |    |----nghia-github-push.py
+    |    |    |----nghia-push/
+    |    |    |    |----contents/
     |    |----nghia-github-push.code-workspace
     |    |----README.md
     |----nghia-github-ssh/
@@ -84,9 +111,11 @@
     |    |    |    |----.gitignore
     |    |    |    |----20206205
     |    |    |    |----20206205.pub
+    |    |    |    |----a.py
     |    |    |    |----company20206205
     |    |    |    |----company20206205.pub
     |    |    |    |----config
+    |    |    |    |----env.test.py
     |    |    |    |----hust20206205
     |    |    |    |----hust20206205.pub
     |    |    |    |----nghia-github-ssh.py
@@ -103,6 +132,10 @@
     |    |    |    |----.gitignore
     |    |    |    |----env.example.py
     |    |    |    |----env.test.py
+    |    |    |----nghia-github-ssh/
+    |    |    |    |----contents/
+    |    |----nghia-github-gitconfig/
+    |    |    |----contents/
     |    |----nghia-github-ssh.code-workspace
     |    |----README.md
     |----nghia-github-template/
@@ -123,18 +156,297 @@
     |    |----.gitignore
     |    |----contents/
     |    |    |----nghia-google-map.html
+    |    |----nghia-github-template/
+    |    |    |----contents/
     |    |----nghia-google-map.code-workspace
+    |    |----README.md
+    |----nghia-learn-nestjs/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----advanced-concepts/
+    |    |    |    |----en/
+    |    |    |    |    |----1. NestJS Advanced Concepts - Course Overview Meet the instructors - NestJS - 1920x1080 257K.srt
+    |    |    |    |    |----10. Composition with Mixins - NestJS - 1920x1080 271K.srt
+    |    |    |    |    |----11. What are Schematics_ - NestJS - 1920x1080 265K.srt
+    |    |    |    |    |----12. Adding Custom Schematics - NestJS - 1920x1080 345K.srt
+    |    |    |    |    |----13. Diving into DI sub-trees - NestJS - 1920x1080 403K.srt
+    |    |    |    |    |----14. DI sub-trees A practical example - NestJS - 1920x1080 472K.srt
+    |    |    |    |    |----15. Understanding Durable Providers - NestJS - 1920x1080 173K.srt
+    |    |    |    |    |----16. What's Multi-tenancy_ - NestJS - 1920x1080 186K.srt
+    |    |    |    |    |----17. Durable Providers 1 Multi-tenancy - NestJS - 1920x1080 493K.srt
+    |    |    |    |    |----18. Durable Providers 2 i18n - NestJS - 1920x1080 321K.srt
+    |    |    |    |    |----2. Prerequisite Generate a Nest application - NestJS - 1920x1080 427K.srt
+    |    |    |    |    |----3. Debugging Common Errors - NestJS - 1920x1080 521K.srt
+    |    |    |    |    |----4. Explicit vs Implicit Dependencies - NestJS - 1920x1080 372K.srt
+    |    |    |    |    |----5. Lazy-loading Modules - NestJS - 1920x1080 374K.srt
+    |    |    |    |    |----6. Accessing IoC container - NestJS - 1920x1080 380K.srt
+    |    |    |    |    |----7. Worker Threads in Action - NestJS - 1920x1080 292K.srt
+    |    |    |    |    |----8. Implementing the Circuit Breaker pattern - NestJS - 1920x1080 352K.srt
+    |    |    |    |    |----9. Building Configurable Modules - NestJS - 1920x1080 386K.srt
+    |    |    |    |    |----Readme.txt
+    |    |    |----architecture-advanced-patterns/
+    |    |    |    |----en/
+    |    |    |    |    |----01. NestJS Architecture & Advanced Patterns -1920x1080 288K.srt
+    |    |    |    |    |----02. Prerequisite Generate a Nest application - NestJS - 1920x1080 427K.srt
+    |    |    |    |    |----03. What’s a Layered (N-tier) Architecture_ - NestJS - 1920x1080 220K.srt
+    |    |    |    |    |----04. Three-tier Architecture vs Hexagonal Architecture - NestJS - 1920x1080 264K.srt
+    |    |    |    |    |----05. Hexagonal Architecture in Practice. Part 1 - NestJS - 1920x1080 422K.srt
+    |    |    |    |    |----06. Hexagonal Architecture in Practice. Part 2 - NestJS - 1920x1080 409K.srt
+    |    |    |    |    |----07. Onion Architecture_ - NestJS - 1920x1080 194K.srt
+    |    |    |    |    |----08. Introduction to Domain-Driven Design - NestJS - 1920x1080 164K.srt
+    |    |    |    |    |----09. Command Query Responsibility Segregation (CQRS) - NestJS - 1920x1080 166K.srt
+    |    |    |    |    |----10. Experimenting with CQRS. Part 1 - NestJS - 1920x1080 384K.srt
+    |    |    |    |    |----11. What's an Event-Driven Architecture_ - NestJS - 1920x1080 157K.srt
+    |    |    |    |    |----12. Experimenting with CQRS. Part 2 - NestJS - 1920x1080 336K.srt
+    |    |    |    |    |----13. Eventual Consistency - NestJS - 1920x1080 171K.srt
+    |    |    |    |    |----14. Experimenting with CQRS. Part 3 - NestJS - 1920x1080 457K.srt
+    |    |    |    |    |----15. Introduction to Event Sourcing Some key characteristics of Event Sourcing are - NestJS - 1920x1080 164K.srt
+    |    |    |    |    |----16. Adding an Event Store. Part 1 - NestJS - 1920x1080 408K.srt
+    |    |    |    |    |----17. Adding an Event Store. Part 2 - NestJS - 1920x1080 388K.srt
+    |    |    |    |    |----18. Extra Autowire Event classes - NestJS - 1920x1080 402K.srt
+    |    |    |    |    |----19. Rehydrating Aggregates - NestJS - 1920x1080 435K.srt
+    |    |    |    |    |----20. Snapshots What & Why_ - NestJS - 1920x1080 184K.srt
+    |    |    |    |    |----21. Understanding Sagas - NestJS - 1920x1080 623K.srt
+    |    |    |    |    |----Readme.txt
+    |    |    |----microservices/
+    |    |    |    |----en/
+    |    |    |    |    |----01. NestJS Microservices.srt
+    |    |    |    |    |----02. Prerequisite Generate a Nest application.srt
+    |    |    |    |    |----03. What are Microservices_ Microservices BenefitsMicroservices Drawbacks.srt
+    |    |    |    |    |----04. Monolithic Architecture vs Microservices.srt
+    |    |    |    |    |----05. Creating our first Microservice.srt
+    |    |    |    |    |----06. Pattern _Database per service.srt
+    |    |    |    |    |----07. Configuring Docker Compose.srt
+    |    |    |    |    |----08. Adding Health Checks.srt
+    |    |    |    |    |----09. Converting from HTTP to NATS.srt
+    |    |    |    |    |----10. Vertical vs Horizontal Scaling.srt
+    |    |    |    |    |----11. Request-Response vs Event-Driven.srt
+    |    |    |    |    |----12. Creating an Alarms Service.srt
+    |    |    |    |    |----13. Orchestration vs Choreography.srt
+    |    |    |    |    |----14. Alarm Classifier and Notifications Services.srt
+    |    |    |    |    |----15. Using RabbitMQ instead of NATS.srt
+    |    |    |    |    |----16. Message Acknowledgement.srt
+    |    |    |    |    |----17. Data Consistency.srt
+    |    |    |    |    |----18. Transactional Outbox Pattern.srt
+    |    |    |    |    |----19. Inbox Pattern.srt
+    |    |    |    |    |----20. Bonus Distributed tracing.srt
+    |    |    |    |    |----code.zip
+    |    |    |    |    |----HTML/
+    |    |    |    |    |    |----01. Prerequisite Generate a Nest application.html
+    |    |    |    |    |    |----02. Creating our first Microservice.html
+    |    |    |    |    |    |----03. Configuring Docker Compose.html
+    |    |    |    |    |    |----04. Adding Health Checks.html
+    |    |    |    |    |    |----05. Converting from HTTP to NATS.html
+    |    |    |    |    |    |----06. Vertical vs Horizontal Scaling.html
+    |    |    |    |    |    |----07. Creating an Alarms Service.html
+    |    |    |    |    |    |----08. Alarm Classifier and Notifications Services.html
+    |    |    |    |    |    |----09. Using RabbitMQ instead of NATS.html
+    |    |    |    |    |    |----10. Message Acknowledgement.html
+    |    |    |    |    |    |----11. Transactional Outbox Pattern.html
+    |    |    |    |    |    |----12. Inbox Pattern.html
+    |    |    |    |    |    |----13. Bonus Distributed tracing.html
+    |    |    |    |    |----Read me.txt
+    |    |    |    |----en_Save/
+    |    |    |    |    |----01. NestJS Microservices.mp4.nghia
+    |    |    |    |    |----01. NestJS Microservices.srt.nghia
+    |    |    |    |    |----02. Prerequisite Generate a Nest application.mp4.nghia
+    |    |    |    |    |----02. Prerequisite Generate a Nest application.srt.nghia
+    |    |    |    |    |----03. What are Microservices_ Microservices BenefitsMicroservices Drawbacks.mp4.nghia
+    |    |    |    |    |----03. What are Microservices_ Microservices BenefitsMicroservices Drawbacks.srt.nghia
+    |    |    |    |    |----04. Monolithic Architecture vs Microservices.mp4.nghia
+    |    |    |    |    |----04. Monolithic Architecture vs Microservices.srt.nghia
+    |    |    |    |    |----05. Creating our first Microservice.mp4.nghia
+    |    |    |    |    |----05. Creating our first Microservice.srt.nghia
+    |    |    |    |    |----06. Pattern _Database per service.mp4.nghia
+    |    |    |    |    |----06. Pattern _Database per service.srt.nghia
+    |    |    |    |    |----07. Configuring Docker Compose.mp4.nghia
+    |    |    |    |    |----07. Configuring Docker Compose.srt.nghia
+    |    |    |    |    |----08. Adding Health Checks.mp4.nghia
+    |    |    |    |    |----08. Adding Health Checks.srt.nghia
+    |    |    |    |    |----09. Converting from HTTP to NATS.mp4.nghia
+    |    |    |    |    |----09. Converting from HTTP to NATS.srt.nghia
+    |    |    |    |    |----10. Vertical vs Horizontal Scaling.mp4.nghia
+    |    |    |    |    |----10. Vertical vs Horizontal Scaling.srt.nghia
+    |    |    |    |    |----11. Request-Response vs Event-Driven.mp4.nghia
+    |    |    |    |    |----11. Request-Response vs Event-Driven.srt.nghia
+    |    |    |    |    |----12. Creating an Alarms Service.mp4.nghia
+    |    |    |    |    |----12. Creating an Alarms Service.srt.nghia
+    |    |    |    |    |----13. Orchestration vs Choreography.mp4.nghia
+    |    |    |    |    |----13. Orchestration vs Choreography.srt.nghia
+    |    |    |    |    |----14. Alarm Classifier and Notifications Services.mp4.nghia
+    |    |    |    |    |----14. Alarm Classifier and Notifications Services.srt.nghia
+    |    |    |    |    |----15. Using RabbitMQ instead of NATS.mp4.nghia
+    |    |    |    |    |----15. Using RabbitMQ instead of NATS.srt.nghia
+    |    |    |    |    |----16. Message Acknowledgement.mp4.nghia
+    |    |    |    |    |----16. Message Acknowledgement.srt.nghia
+    |    |    |    |    |----17. Data Consistency.mp4.nghia
+    |    |    |    |    |----17. Data Consistency.srt.nghia
+    |    |    |    |    |----18. Transactional Outbox Pattern.mp4.nghia
+    |    |    |    |    |----18. Transactional Outbox Pattern.srt.nghia
+    |    |    |    |    |----19. Inbox Pattern.mp4.nghia
+    |    |    |    |    |----19. Inbox Pattern.srt.nghia
+    |    |    |    |    |----20. Bonus Distributed tracing.mp4.nghia
+    |    |    |    |    |----20. Bonus Distributed tracing.srt.nghia
+    |    |    |    |    |----code.zip.nghia
+    |    |    |    |    |----HTML/
+    |    |    |    |    |    |----01. Prerequisite Generate a Nest application.html.nghia
+    |    |    |    |    |    |----02. Creating our first Microservice.html.nghia
+    |    |    |    |    |    |----03. Configuring Docker Compose.html.nghia
+    |    |    |    |    |    |----04. Adding Health Checks.html.nghia
+    |    |    |    |    |    |----05. Converting from HTTP to NATS.html.nghia
+    |    |    |    |    |    |----06. Vertical vs Horizontal Scaling.html.nghia
+    |    |    |    |    |    |----07. Creating an Alarms Service.html.nghia
+    |    |    |    |    |    |----08. Alarm Classifier and Notifications Services.html.nghia
+    |    |    |    |    |    |----09. Using RabbitMQ instead of NATS.html.nghia
+    |    |    |    |    |    |----10. Message Acknowledgement.html.nghia
+    |    |    |    |    |    |----11. Transactional Outbox Pattern.html.nghia
+    |    |    |    |    |    |----12. Inbox Pattern.html.nghia
+    |    |    |    |    |    |----13. Bonus Distributed tracing.html.nghia
+    |    |    |    |    |----Read me.txt.nghia
+    |    |    |    |----en_VVN/
+    |    |    |    |    |----000000001_v2_vvn.nghia
+    |    |    |    |    |----000000002_v2_vvn.nghia
+    |    |    |    |    |----000000003_v2_vvn.nghia
+    |    |    |    |    |----000000004_v2_vvn.nghia
+    |    |    |    |    |----000000005_v2_vvn.nghia
+    |    |    |    |    |----000000006_v2_vvn.nghia
+    |    |    |    |    |----000000007_v2_vvn.nghia
+    |    |    |    |    |----000000008_v2_vvn.nghia
+    |    |    |    |    |----000000009_v2_vvn.nghia
+    |    |    |    |    |----000000010_v2_vvn.nghia
+    |    |    |    |    |----000000011_v2_vvn.nghia
+    |    |    |    |    |----000000012_v2_vvn.nghia
+    |    |    |    |    |----000000013_v2_vvn.nghia
+    |    |    |    |    |----000000014_v2_vvn.nghia
+    |    |    |    |    |----000000015_v2_vvn.nghia
+    |    |    |    |    |----000000016_v2_vvn.nghia
+    |    |    |    |    |----000000017_v2_vvn.nghia
+    |    |    |    |    |----000000018_v2_vvn.nghia
+    |    |    |    |    |----000000019_v2_vvn.nghia
+    |    |    |    |    |----000000020_v2_vvn.nghia
+    |    |    |    |    |----code.zip
+    |    |    |    |    |----HTML/
+    |    |    |    |    |    |----01. Prerequisite Generate a Nest application.html
+    |    |    |    |    |    |----02. Creating our first Microservice.html
+    |    |    |    |    |    |----03. Configuring Docker Compose.html
+    |    |    |    |    |    |----04. Adding Health Checks.html
+    |    |    |    |    |    |----05. Converting from HTTP to NATS.html
+    |    |    |    |    |    |----06. Vertical vs Horizontal Scaling.html
+    |    |    |    |    |    |----07. Creating an Alarms Service.html
+    |    |    |    |    |    |----08. Alarm Classifier and Notifications Services.html
+    |    |    |    |    |    |----09. Using RabbitMQ instead of NATS.html
+    |    |    |    |    |    |----10. Message Acknowledgement.html
+    |    |    |    |    |    |----11. Transactional Outbox Pattern.html
+    |    |    |    |    |    |----12. Inbox Pattern.html
+    |    |    |    |    |    |----13. Bonus Distributed tracing.html
+    |    |    |    |    |----Read me.txt
+    |    |    |    |----nghia.txt
+    |    |    |----mongodb/
+    |    |    |    |----en/
+    |    |    |    |    |----1 - Introduction/
+    |    |    |    |    |    |----1 - NestJs In Practice Course Helicopter View English.srt
+    |    |    |    |    |    |----2 - IMPORTANT Recommended Software Versions.html
+    |    |    |    |    |    |----3 - NestJs In Practice Development Environment Setup English.srt
+    |    |    |    |    |    |----4 - The Typescript Jumpstart Ebook.html
+    |    |    |    |    |----2 - Introduction to the NestJs framework/
+    |    |    |    |    |    |----5 - Setting Up a NestJs Server from scratch English.srt
+    |    |    |    |    |    |----6 - NestJs Hello World First NestJs REST Endpoint English.srt
+    |    |    |    |    |    |----7 - Running a NestJs Server in Hot Reload Mode English.srt
+    |    |    |    |    |    |----8 - How to Debug a NestJs Backend using the Chrome Dev Tools English.srt
+    |    |    |    |    |----3 - NestJs REST backend CRUD Operations/
+    |    |    |    |    |    |----10 - Adding some sample data to our MongoDB database English.srt
+    |    |    |    |    |    |----11 - Introduction to Mongoose and Schemaless databases English.srt
+    |    |    |    |    |    |----12 - Setting Up Mongoose Creating our first Schema English.srt
+    |    |    |    |    |    |----13 - Implementing a NestJs Repository Service with Mongoose English.srt
+    |    |    |    |    |    |----14 - NestJs CRUD Update Parsing the HTTP request with Param and Body English.srt
+    |    |    |    |    |    |----15 - NestJs CRUD Update Repository Implementation English.srt
+    |    |    |    |    |    |----16 - NestJs CRUD StepbyStep Delete Implementation English.srt
+    |    |    |    |    |    |----17 - NestJs CRUD StepbyStep Create Implementation English.srt
+    |    |    |    |    |    |----9 - Quick Guide to Setting Up a Cloud MongoDB database English.srt
+    |    |    |    |    |----4 - NestJs Error Handling In Depth/
+    |    |    |    |    |    |----18 - Introduction to NestJs Error Handling English.srt
+    |    |    |    |    |    |----19 - Introduction to the Restlet REST Client English.srt
+    |    |    |    |    |    |----20 - NestJs Exception Filters StepbyStep Implementation English.srt
+    |    |    |    |    |    |----21 - Understanding Mongoose Schema Validation English.srt
+    |    |    |    |    |    |----22 - Setting Up a NestJs Fallback Global Exception Handler English.srt
+    |    |    |    |    |----5 - NestJs Data Validation In Depth/
+    |    |    |    |    |    |----23 - NestJs Decoratorbased Validation using Class Validator English.srt
+    |    |    |    |    |    |----24 - Introduction to NestJs Pipes English.srt
+    |    |    |    |    |    |----25 - NestJs Pipes A Simple Example ToIntegerPipe English.srt
+    |    |    |    |    |    |----26 - NestJS Data Validation with classvalidator English.srt
+    |    |    |    |    |    |----27 - NestJs ValidationPipe How to use it English.srt
+    |    |    |    |    |----6 - Practice Section Implementing the Course Screen/
+    |    |    |    |    |    |----28 - Practice Lesson Implementing the Course Screen English.srt
+    |    |    |    |    |    |----29 - Defining a One To Many Relationship with Mongoose English.srt
+    |    |    |    |    |    |----30 - Parsing NestJs HTTP GET queries with Query English.srt
+    |    |    |    |    |    |----31 - Practice Lesson Finishing the Implementation of the Course Screen English.srt
+    |    |    |    |    |----7 - NestJs Authentication and Authorization In Depth/
+    |    |    |    |    |    |----32 - Introduction to NestJs Backend Security English.srt
+    |    |    |    |    |    |----33 - Initial Implementation of a NestJs Login Controller English.srt
+    |    |    |    |    |    |----34 - NestJs Authentication Login Controller Implementation English.srt
+    |    |    |    |    |    |----35 - NestJs Authentication Validating the User Password English.srt
+    |    |    |    |    |    |----36 - Authenticating a User with JSON Web Tokens English.srt
+    |    |    |    |    |    |----37 - Handling the Authentication JWT on the Angular client English.srt
+    |    |    |    |    |    |----38 - Introduction to NestJs Midddleware English.srt
+    |    |    |    |    |    |----39 - Get User NestJs Middleware StepbyStep Implementation English.srt
+    |    |    |    |    |    |----40 - Ensuring User Authentication with a NestJs Guard English.srt
+    |    |    |    |    |    |----41 - NestJs Authorization Guard StepbyStep Implementation English.srt
+    |    |    |    |    |    |----42 - NestJs AdministratorsOnly Guard English.srt
+    |    |    |    |    |----8 - Conclusion/
+    |    |    |    |    |    |----43 - Bonus Lecture.html
+    |    |    |    |    |    |----44 - NestJs In Practice Conclusions Key Takeaways English.srt
+    |    |    |    |    |----Readme.txt
+    |    |    |----nestjs-authentication-and-authorization/
+    |    |    |    |----en/
+    |    |    |    |    |----lesson1.srt
+    |    |    |    |    |----lesson10.srt
+    |    |    |    |    |----lesson11.srt
+    |    |    |    |    |----lesson12.srt
+    |    |    |    |    |----lesson13.srt
+    |    |    |    |    |----lesson14.srt
+    |    |    |    |    |----lesson15.srt
+    |    |    |    |    |----lesson16.srt
+    |    |    |    |    |----lesson17.srt
+    |    |    |    |    |----lesson18.srt
+    |    |    |    |    |----lesson19.srt
+    |    |    |    |    |----lesson2.srt
+    |    |    |    |    |----lesson20.srt
+    |    |    |    |    |----lesson3.srt
+    |    |    |    |    |----lesson4.srt
+    |    |    |    |    |----lesson5.srt
+    |    |    |    |    |----lesson6.srt
+    |    |    |    |    |----lesson7.srt
+    |    |    |    |    |----lesson8.srt
+    |    |    |    |    |----lesson9.srt
+    |    |    |    |    |----NestJS Authentication and Authorization.txt
+    |    |    |    |    |----Readme.txt
+    |    |    |----nestjs-fundamentals/
+    |    |    |    |----en/
+    |    |    |    |    |----Readme.txt
+    |    |    |----nestjs-graphql/
+    |    |    |    |----en/
+    |    |    |    |    |----NestJS GraphQL - Code-first approach.txt
+    |    |    |    |    |----Read me.txt
+    |    |----nghia-learn-nestjs.code-workspace
     |    |----README.md
     |----nghia-note/
     |    |----.gitignore
     |    |----contents/
     |    |    |----course.md
+    |    |    |----nghia-note/
+    |    |    |    |----contents/
+    |    |----nghia-google-map/
+    |    |    |----contents/
     |    |----nghia-note.code-workspace
     |    |----README.md
     |----nghia-rename-time/
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
+    |    |    |----input/
+    |    |    |----nghia-rename-file-time/
+    |    |    |----nghia-rename-time/
+    |    |    |    |----contents/
     |    |    |----nghia-rename-time.py
     |    |----nghia-rename-time.code-workspace
     |    |----README.md
@@ -142,23 +454,210 @@
     |----nghia-step-recorder/
     |    |----.gitignore
     |    |----contents/
+    |    |    |----nghia-step-recorder/
+    |    |    |    |----contents/
     |    |    |----nghia-step-recorder.py
     |    |----nghia-step-recorder.code-workspace
     |    |----README.md
     |----nghia-test-tikz/
     |    |----.gitignore
     |    |----contents/
+    |    |    |----main.aux
+    |    |    |----main.fdb_latexmk
+    |    |    |----main.fls
+    |    |    |----main.latex.aux
+    |    |    |----main.latex.fdb_latexmk
+    |    |    |----main.latex.fls
+    |    |    |----main.latex.log
+    |    |    |----main.latex.pdf
+    |    |    |----main.latex.synctex.gz
+    |    |    |----main.log
+    |    |    |----main.pdf
+    |    |    |----main.synctex.gz
     |    |    |----main.tex
+    |    |    |----nghia-test-tikz/
+    |    |    |    |----contents/
+    |    |    |----template.pdf
+    |    |    |----template.synctex.gz
     |    |    |----template.tex
     |    |----nghia-test-tikz.code-workspace
     |    |----README.md
     |----nghia-ubuntu/
     |    |----.gitignore
+    |    |----.gitmodules
+    |    |----contents/
+    |    |    |----autostart/
+    |    |    |    |----temp/
+    |    |    |----contents/
+    |    |    |----dotbot/
+    |    |    |    |----.editorconfig
+    |    |    |    |----.git
+    |    |    |    |----.github/
+    |    |    |    |    |----workflows/
+    |    |    |    |    |    |----ci.yml
+    |    |    |    |----.gitignore
+    |    |    |    |----.gitmodules
+    |    |    |    |----bin/
+    |    |    |    |    |----dotbot
+    |    |    |    |----CHANGELOG.md
+    |    |    |    |----CONTRIBUTING.md
+    |    |    |    |----dotbot/
+    |    |    |    |    |----cli.py
+    |    |    |    |    |----config.py
+    |    |    |    |    |----context.py
+    |    |    |    |    |----dispatcher.py
+    |    |    |    |    |----messenger/
+    |    |    |    |    |    |----color.py
+    |    |    |    |    |    |----level.py
+    |    |    |    |    |    |----messenger.py
+    |    |    |    |    |    |----__init__.py
+    |    |    |    |    |----plugin.py
+    |    |    |    |    |----plugins/
+    |    |    |    |    |    |----clean.py
+    |    |    |    |    |    |----create.py
+    |    |    |    |    |    |----link.py
+    |    |    |    |    |    |----shell.py
+    |    |    |    |    |    |----__init__.py
+    |    |    |    |    |----util/
+    |    |    |    |    |    |----common.py
+    |    |    |    |    |    |----module.py
+    |    |    |    |    |    |----singleton.py
+    |    |    |    |    |    |----string.py
+    |    |    |    |    |    |----__init__.py
+    |    |    |    |    |----__init__.py
+    |    |    |    |    |----__main__.py
+    |    |    |    |----lib/
+    |    |    |    |    |----pyyaml/
+    |    |    |    |----LICENSE.md
+    |    |    |    |----pyproject.toml
+    |    |    |    |----README.md
+    |    |    |    |----setup.py
+    |    |    |    |----tests/
+    |    |    |    |    |----conftest.py
+    |    |    |    |    |----dotbot_plugin_directory.py
+    |    |    |    |    |----dotbot_plugin_file.py
+    |    |    |    |    |----test_bin_dotbot.py
+    |    |    |    |    |----test_clean.py
+    |    |    |    |    |----test_cli.py
+    |    |    |    |    |----test_config.py
+    |    |    |    |    |----test_create.py
+    |    |    |    |    |----test_link.py
+    |    |    |    |    |----test_noop.py
+    |    |    |    |    |----test_shell.py
+    |    |    |    |    |----test_shim.py
+    |    |    |    |----tools/
+    |    |    |    |    |----git-submodule/
+    |    |    |    |    |    |----install
+    |    |    |    |    |    |----install.ps1
+    |    |    |    |    |----hg-subrepo/
+    |    |    |    |    |    |----install
+    |    |    |    |    |    |----install.ps1
+    |    |    |    |----tox.ini
+    |    |    |----dotfiles/
+    |    |    |    |----code/
+    |    |    |    |    |----background.sh
+    |    |    |    |    |----code.md
+    |    |    |    |    |----code.sh
+    |    |    |    |    |----copyq.sh
+    |    |    |    |    |----curl.sh
+    |    |    |    |    |----custom-keybindings.py
+    |    |    |    |    |----dconf-editor.sh
+    |    |    |    |    |----default.csv.sh
+    |    |    |    |    |----default.html.sh
+    |    |    |    |    |----default.json.sh
+    |    |    |    |    |----default.markdown.sh
+    |    |    |    |    |----default.mp4.sh
+    |    |    |    |    |----default.pdf.sh
+    |    |    |    |    |----default.plain.sh
+    |    |    |    |    |----default.python.sh
+    |    |    |    |    |----default.shellscript.sh
+    |    |    |    |    |----default.tex.sh
+    |    |    |    |    |----fdm.sh
+    |    |    |    |    |----ffmpeg.sh
+    |    |    |    |    |----fsearch.sh
+    |    |    |    |    |----git.sh
+    |    |    |    |    |----github.nghia-github-template.sh
+    |    |    |    |    |----github.nghia-push.sh
+    |    |    |    |    |----github.nghia-ubuntu-link.sh
+    |    |    |    |    |----github.nghia-wifi-proxy.sh
+    |    |    |    |    |----google-chrome.md
+    |    |    |    |    |----google-chrome.sh
+    |    |    |    |    |----grub-customizer.sh
+    |    |    |    |    |----Home.sh
+    |    |    |    |    |----pip3.sh
+    |    |    |    |    |----root/
+    |    |    |    |    |    |----.bashrc
+    |    |    |    |    |    |----home/
+    |    |    |    |    |    |    |----.config/
+    |    |    |    |    |    |    |    |----autostart/
+    |    |    |    |    |    |    |    |    |----autostart/
+    |    |    |    |    |    |    |    |    |----code.desktop
+    |    |    |    |    |    |    |    |    |----copyq.desktop
+    |    |    |    |    |    |    |    |    |----FDM.desktop
+    |    |    |    |    |    |    |    |    |----google-chrome.desktop
+    |    |    |    |    |    |    |    |    |----temp/
+    |    |    |    |    |    |    |    |----copyq/
+    |    |    |    |    |    |    |    |    |----copyq-commands.ini
+    |    |    |    |    |    |    |----Desktop/
+    |    |    |    |    |    |    |    |----background/
+    |    |    |    |    |    |    |    |----background.jpeg
+    |    |    |    |    |    |    |----Templates/
+    |    |    |    |    |    |    |    |----all.gitignore.gitignore
+    |    |    |    |    |    |    |    |----main.latex.tex
+    |    |    |    |    |    |    |    |----main.python.py
+    |    |    |    |    |    |    |    |----README.md
+    |    |    |    |    |    |    |    |----Templates/
+    |    |    |    |    |    |    |    |----Text.txt
+    |    |    |    |    |----shellscript/
+    |    |    |    |    |----theme-dark.sh
+    |    |    |    |    |----trash.sh
+    |    |    |    |    |----tree.sh
+    |    |    |    |    |----ungroup-taskbar.sh
+    |    |    |    |    |----update-upgrade.sh
+    |    |    |    |----others/
+    |    |    |    |    |----download/
+    |    |    |    |    |    |----download.sh
+    |    |    |    |    |----handmade/
+    |    |    |    |    |    |----Dock.png
+    |    |    |    |    |    |----docker.sh
+    |    |    |    |    |    |----grub-customizer/
+    |    |    |    |    |    |    |----image-2.png
+    |    |    |    |    |    |    |----image-3.png
+    |    |    |    |    |    |    |----image-4.png
+    |    |    |    |    |    |----latex.sh
+    |    |    |    |    |    |----ssh.png
+    |    |    |    |    |    |----vn/
+    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-14-24.png
+    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-15-09.png
+    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-16-02.png
+    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-16-20.png
+    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-17-19.png
+    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-46-15.png
+    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-46-34.png
+    |    |    |    |    |    |    |----Screenshot from 2024-07-17 08-46-40.png
+    |    |    |----install
+    |    |    |----install.conf.yaml
+    |    |    |----install.format.py
+    |    |    |----New folder/
+    |    |    |    |----nghia-ubuntu-main/
+    |    |    |    |    |----nghia-ubuntu-main000/
+    |    |    |    |    |    |----nghia-ubuntu-main/
+    |    |    |    |    |    |    |----contents/
+    |    |    |----nghia-ubuntu/
+    |    |    |    |----contents/
+    |    |    |----nghia-ubuntu-main/
+    |    |    |----nghia-ubuntu-main_2000/
+    |    |    |    |----nghia-ubuntu-main/
+    |    |    |    |    |----contents/
+    |    |    |----nghia-ubuntu-main_3/
+    |    |    |----_download/
     |    |----nghia-ubuntu.code-workspace
     |    |----README.md
     |----nghia-ubuntu-link/
     |    |----.gitignore
     |    |----contents/
+    |    |    |----nghia-ubuntu-link/
+    |    |    |    |----contents/
     |    |    |----nghia-ubuntu-link.py
     |    |----nghia-ubuntu-link.code-workspace
     |    |----README.md
@@ -190,6 +689,37 @@
     |    |----Screenshot (20).png
     |    |----Screenshot (21).png
     |    |----Screenshot (22).png
+    |----nghia-vscode/
+    |    |----.gitignore
+    |    |----.vscode/
+    |    |    |----extensions.json
+    |    |----contents/
+    |    |    |----shortcuts/
+    |    |    |    |----keybindings.json
+    |    |    |----snippets/
+    |    |    |    |----latex/
+    |    |    |    |    |----nghia_comment.tex
+    |    |    |    |    |----nghia_picture.tex
+    |    |    |    |    |----nghia_start.tex
+    |    |    |    |----latex.json
+    |    |    |    |----python/
+    |    |    |    |    |----nghia_list_set.py
+    |    |    |    |    |----nghia_main.py
+    |    |    |    |    |----nghia_print.py
+    |    |    |    |    |----nghia_print_green.py
+    |    |    |    |    |----nghia_requirements.py
+    |    |    |    |    |----nghia_tqdm.py
+    |    |    |    |----python.json
+    |    |    |----tools/
+    |    |    |    |----extensions.py
+    |    |    |    |----extensions.temp.py
+    |    |    |    |----keybindings.py
+    |    |    |    |----requirements.txt
+    |    |    |    |----settings.py
+    |    |    |    |----snippets.py
+    |    |    |    |----_all.py
+    |    |----nghia-vscode.code-workspace
+    |    |----README.md
     |----nghia-wifi-proxy/
     |    |----.gitignore
     |    |----contents/
@@ -197,12 +727,202 @@
     |    |    |----windows.py
     |    |----nghia-wifi-proxy.code-workspace
     |    |----README.md
+    |----nghia-windows/
+    |    |----.gitignore
+    |    |----.gitmodules
+    |    |----contents/
+    |    |    |----company20206205/
+    |    |    |----contents/
+    |    |    |----dotbot/
+    |    |    |    |----.editorconfig
+    |    |    |    |----.git
+    |    |    |    |----.github/
+    |    |    |    |    |----workflows/
+    |    |    |    |    |    |----ci.yml
+    |    |    |    |----.gitignore
+    |    |    |    |----.gitmodules
+    |    |    |    |----bin/
+    |    |    |    |    |----dotbot
+    |    |    |    |----CHANGELOG.md
+    |    |    |    |----CONTRIBUTING.md
+    |    |    |    |----dotbot/
+    |    |    |    |    |----cli.py
+    |    |    |    |    |----config.py
+    |    |    |    |    |----context.py
+    |    |    |    |    |----dispatcher.py
+    |    |    |    |    |----messenger/
+    |    |    |    |    |    |----color.py
+    |    |    |    |    |    |----level.py
+    |    |    |    |    |    |----messenger.py
+    |    |    |    |    |    |----__init__.py
+    |    |    |    |    |----plugin.py
+    |    |    |    |    |----plugins/
+    |    |    |    |    |    |----clean.py
+    |    |    |    |    |    |----create.py
+    |    |    |    |    |    |----link.py
+    |    |    |    |    |    |----shell.py
+    |    |    |    |    |    |----__init__.py
+    |    |    |    |    |----util/
+    |    |    |    |    |    |----common.py
+    |    |    |    |    |    |----module.py
+    |    |    |    |    |    |----singleton.py
+    |    |    |    |    |    |----string.py
+    |    |    |    |    |    |----__init__.py
+    |    |    |    |    |----__init__.py
+    |    |    |    |    |----__main__.py
+    |    |    |    |----lib/
+    |    |    |    |    |----pyyaml/
+    |    |    |    |----LICENSE.md
+    |    |    |    |----pyproject.toml
+    |    |    |    |----README.md
+    |    |    |    |----setup.py
+    |    |    |    |----tests/
+    |    |    |    |    |----conftest.py
+    |    |    |    |    |----dotbot_plugin_directory.py
+    |    |    |    |    |----dotbot_plugin_file.py
+    |    |    |    |    |----test_bin_dotbot.py
+    |    |    |    |    |----test_clean.py
+    |    |    |    |    |----test_cli.py
+    |    |    |    |    |----test_config.py
+    |    |    |    |    |----test_create.py
+    |    |    |    |    |----test_link.py
+    |    |    |    |    |----test_noop.py
+    |    |    |    |    |----test_shell.py
+    |    |    |    |    |----test_shim.py
+    |    |    |    |----tools/
+    |    |    |    |    |----git-submodule/
+    |    |    |    |    |    |----install
+    |    |    |    |    |    |----install.ps1
+    |    |    |    |    |----hg-subrepo/
+    |    |    |    |    |    |----install
+    |    |    |    |    |    |----install.ps1
+    |    |    |    |----tox.ini
+    |    |    |----dotfiles/
+    |    |    |    |----code/
+    |    |    |    |    |----autohotkey/
+    |    |    |    |    |    |----autohotkey.ps1
+    |    |    |    |    |----BetterTogether/
+    |    |    |    |    |    |----BetterTogether.md
+    |    |    |    |    |----ChangeIconSize/
+    |    |    |    |    |    |----ChangeIconSize.ps1
+    |    |    |    |    |----chocolatey/
+    |    |    |    |    |    |----chocolatey.md
+    |    |    |    |    |    |----chocolatey.ps1
+    |    |    |    |    |----docker/
+    |    |    |    |    |    |----docker.md
+    |    |    |    |    |----everything/
+    |    |    |    |    |    |----everything.md
+    |    |    |    |    |    |----everything.ps1
+    |    |    |    |    |----fdm/
+    |    |    |    |    |    |----fdm.md
+    |    |    |    |    |----ffmpeg/
+    |    |    |    |    |    |----ffmpeg.md
+    |    |    |    |    |----FoxitPDFReader/
+    |    |    |    |    |    |----FoxitPDFReader.ps1
+    |    |    |    |    |----git/
+    |    |    |    |    |    |----git.md
+    |    |    |    |    |    |----git.ps1
+    |    |    |    |    |----googlechrome/
+    |    |    |    |    |    |----googlechrome.md
+    |    |    |    |    |    |----googlechrome.ps1
+    |    |    |    |    |----latex/
+    |    |    |    |    |    |----latex.md
+    |    |    |    |    |----mechvibes/
+    |    |    |    |    |    |----1.png
+    |    |    |    |    |    |----2.png
+    |    |    |    |    |    |----20240630_002051471880.png
+    |    |    |    |    |    |----20240630_002059913926.png
+    |    |    |    |    |    |----3.png
+    |    |    |    |    |    |----4.png
+    |    |    |    |    |    |----image.png
+    |    |    |    |    |    |----mechvibes.md
+    |    |    |    |    |    |----z2.png
+    |    |    |    |    |----obs-studio/
+    |    |    |    |    |    |----obs-studio.ps1
+    |    |    |    |    |----powertoys/
+    |    |    |    |    |    |----powertoys.ps1
+    |    |    |    |    |----python/
+    |    |    |    |    |    |----python.md
+    |    |    |    |    |    |----python.ps1
+    |    |    |    |    |----RestartExplorer/
+    |    |    |    |    |    |----RestartExplorer.ps1
+    |    |    |    |    |----Startup/
+    |    |    |    |    |    |----Startup.ps1
+    |    |    |    |    |----SubtitleEdit/
+    |    |    |    |    |    |----SubtitleEdit.md
+    |    |    |    |    |----unikey/
+    |    |    |    |    |    |----20240701_111616850991.png
+    |    |    |    |    |    |----20240701_111628822976.png
+    |    |    |    |    |    |----20240701_111633181034.png
+    |    |    |    |    |    |----20240701_111649975064.png
+    |    |    |    |    |    |----20240701_115111808230.png
+    |    |    |    |    |    |----20240701_115121278363.png
+    |    |    |    |    |    |----20240701_115128432284.png
+    |    |    |    |    |    |----20240701_115129828361.png
+    |    |    |    |    |    |----20240701_115132268361.png
+    |    |    |    |    |    |----20240701_115135298361.png
+    |    |    |    |    |    |----20240701_115136834439.png
+    |    |    |    |    |    |----20240701_115138154228.png
+    |    |    |    |    |    |----20240701_115145487933.png
+    |    |    |    |    |    |----20240701_132911151528.png
+    |    |    |    |    |    |----20240701_132918269486.png
+    |    |    |    |    |    |----20240701_132922179741.png
+    |    |    |    |    |    |----unikey.md
+    |    |    |    |    |    |----unikey.ps1
+    |    |    |    |    |----virtualbox/
+    |    |    |    |    |    |----virtualbox.md
+    |    |    |    |    |    |----virtualbox.ps1
+    |    |    |    |    |----vscode/
+    |    |    |    |    |    |----vscode.md
+    |    |    |    |    |    |----vscode.ps1
+    |    |    |    |    |----wallpaper/
+    |    |    |    |    |    |----wallpaper.jpeg
+    |    |    |    |    |    |----wallpaper.md
+    |    |    |    |    |    |----wallpaper.ps1
+    |    |    |    |    |----windows_registry_clipboard_history/
+    |    |    |    |    |    |----windows_registry_clipboard_history.md
+    |    |    |    |    |    |----windows_registry_clipboard_history.py
+    |    |    |    |    |    |----windows_registry_clipboard_history_disable.reg
+    |    |    |    |    |    |----windows_registry_clipboard_history_enable.reg
+    |    |    |    |    |----windows_registry_file_extensions/
+    |    |    |    |    |    |----windows_registry_file_extensions.md
+    |    |    |    |    |    |----windows_registry_file_extensions.py
+    |    |    |    |    |    |----windows_registry_file_extensions_hide.reg
+    |    |    |    |    |    |----windows_registry_file_extensions_show.reg
+    |    |    |    |    |----windows_registry_hidden_items/
+    |    |    |    |    |    |----windows_registry_hidden_items.md
+    |    |    |    |    |    |----windows_registry_hidden_items.py
+    |    |    |    |    |    |----windows_registry_hidden_items_hide.reg
+    |    |    |    |    |    |----windows_registry_hidden_items_show.reg
+    |    |    |    |    |----windows_registry_theme/
+    |    |    |    |    |    |----windows_registry_theme.md
+    |    |    |    |    |    |----windows_registry_theme.py
+    |    |    |    |    |    |----windows_registry_theme_dark.reg
+    |    |    |    |    |    |----windows_registry_theme_white.reg
+    |    |    |    |    |----windows_registry_time_zone/
+    |    |    |    |    |    |----windows_registry_time_zone.md
+    |    |    |    |    |    |----windows_registry_time_zone.py
+    |    |    |    |    |    |----windows_registry_time_zone.reg
+    |    |    |    |    |----winrar/
+    |    |    |    |    |    |----winrar.ps1
+    |    |    |    |----others/
+    |    |    |    |    |----download/
+    |    |    |    |    |    |----download.ps1
+    |    |    |----install
+    |    |    |----install.conf.yaml
+    |    |    |----install.format.py
+    |    |    |----nghia-windows/
+    |    |    |----nghia-windows-main/
+    |    |    |----nghia-windows-main000/
+    |    |    |----vvn20206205/
+    |    |----nghia-windows.code-workspace
+    |    |----README.md
+    |    |----temp/
     |----nghia-windows-autohotkey/
     |    |----.gitignore
     |    |----contents/
+    |    |    |----nghia-windows-autohotkey.ahk
     |    |    |----nghia-windows-autohotkey.py
-    |    |    |----nghia.ahk
-    |    |    |----nghia.py
     |    |----nghia-windows-autohotkey.code-workspace
     |    |----README.md
     |----nghia-windows-unikey/
@@ -214,6 +934,7 @@
     |    |----README.md
     |----whynotnghiavu/
     |    |----.gitignore
+    |    |----company20206205/
     |    |----contents/
     |    |    |----.gitignore
     |    |    |----whynotnghiavu.py
@@ -221,3 +942,9 @@
     |    |----whynotnghiavu.code-workspace
     |----_Delete/
     |    |----.gitignore
+    |    |----0/
+    |    |----0.5/
+    |    |----Nghia/
+    |    |    |----Git/
+    |    |----nghia-git-backup/
+    |    |    |----1/
