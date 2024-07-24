@@ -34,4 +34,3 @@ with open(output_file, 'w') as file:
     file.write("")
 display(folder_path, output_file=output_file, ignore_folders=ignore_folders)
 print(f"Kết quả đã được ghi vào tập tin {output_file}")
-
