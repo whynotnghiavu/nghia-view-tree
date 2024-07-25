@@ -1,4 +1,11 @@
 ----whynotnghiavu/
+    |----nghia-auto-microsoft-forms/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----a.js
+    |    |    |----echo.json
+    |    |----nghia-auto-microsoft-forms.code-workspace
+    |    |----README.md
     |----nghia-chrome-bookmarks/
     |    |----.gitignore
     |    |----contents/
@@ -18,7 +25,6 @@
     |    |    |    |----input.html
     |    |    |    |----output.html
     |    |    |----input.html
-    |    |    |----nghia-bookmarks/
     |    |    |----nghia-chrome-bookmarks.py
     |    |    |----output.html
     |    |----nghia-chrome-bookmarks.code-workspace
@@ -36,21 +42,35 @@
     |    |    |----index.csv
     |    |----nghia-chrome-passwords.code-workspace
     |    |----README.md
+    |----nghia-contact-manager/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----code/
+    |    |    |    |----index.html
+    |    |    |    |----page2.html
+    |    |    |    |----script.js
+    |    |    |    |----styles.css
+    |    |    |----data/
+    |    |    |    |----Danh bạ.vcf
+    |    |    |    |----Danh bạ_002.vcf
+    |    |    |----nghia-contact-manager.py
+    |    |----Danh bạ_002.vcf
+    |    |----nghia-contact-manager.code-workspace
+    |    |----README.md
     |----nghia-course/
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
     |    |    |----contents/
     |    |    |    |----.gitignore
-    |    |    |----nghia-course/
     |    |    |----nghia-course.py
     |    |----nghia-course.code-workspace
     |    |----README.md
     |----nghia-delete-empty-folder/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----.gitignore
     |    |    |----input-nghia-delete-empty-folder/
+    |    |    |    |----.gitignore
     |    |    |----nghia-delete-empty-folder.py
     |    |----nghia-delete-empty-folder.code-workspace
     |    |----README.md
@@ -76,11 +96,7 @@
     |----nghia-github-clone-all/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----nghia-github-clone-all/
-    |    |    |    |----contents/
     |    |    |----nghia-github-clone-all.py
-    |    |----nghia-delete-empty-folder/
-    |    |    |----contents/
     |    |----nghia-github-clone-all.code-workspace
     |    |----README.md
     |----nghia-github-gitconfig/
@@ -100,8 +116,6 @@
     |    |----.gitignore
     |    |----contents/
     |    |    |----nghia-github-push.py
-    |    |    |----nghia-push/
-    |    |    |    |----contents/
     |    |----nghia-github-push.code-workspace
     |    |----README.md
     |----nghia-github-ssh/
@@ -132,10 +146,6 @@
     |    |    |    |----.gitignore
     |    |    |    |----env.example.py
     |    |    |    |----env.test.py
-    |    |    |----nghia-github-ssh/
-    |    |    |    |----contents/
-    |    |----nghia-github-gitconfig/
-    |    |    |----contents/
     |    |----nghia-github-ssh.code-workspace
     |    |----README.md
     |----nghia-github-template/
@@ -156,8 +166,6 @@
     |    |----.gitignore
     |    |----contents/
     |    |    |----nghia-google-map.html
-    |    |----nghia-github-template/
-    |    |    |----contents/
     |    |----nghia-google-map.code-workspace
     |    |----README.md
     |----nghia-learn-nestjs/
@@ -188,7 +196,7 @@
     |    |    |    |----en/
     |    |    |    |    |----01. NestJS Architecture & Advanced Patterns -1920x1080 288K.srt
     |    |    |    |    |----02. Prerequisite Generate a Nest application - NestJS - 1920x1080 427K.srt
-    |    |    |    |    |----03. What�s a Layered (N-tier) Architecture_ - NestJS - 1920x1080 220K.srt
+    |    |    |    |    |----03. What’s a Layered (N-tier) Architecture_ - NestJS - 1920x1080 220K.srt
     |    |    |    |    |----04. Three-tier Architecture vs Hexagonal Architecture - NestJS - 1920x1080 264K.srt
     |    |    |    |    |----05. Hexagonal Architecture in Practice. Part 1 - NestJS - 1920x1080 422K.srt
     |    |    |    |    |----06. Hexagonal Architecture in Practice. Part 2 - NestJS - 1920x1080 409K.srt
@@ -432,21 +440,15 @@
     |----nghia-note/
     |    |----.gitignore
     |    |----contents/
+    |    |    |----chua_github.md
     |    |    |----course.md
-    |    |    |----nghia-note/
-    |    |    |    |----contents/
-    |    |----nghia-google-map/
-    |    |    |----contents/
+    |    |    |----https.md
     |    |----nghia-note.code-workspace
     |    |----README.md
     |----nghia-rename-time/
     |    |----.gitignore
     |    |----contents/
     |    |    |----.gitignore
-    |    |    |----input/
-    |    |    |----nghia-rename-file-time/
-    |    |    |----nghia-rename-time/
-    |    |    |    |----contents/
     |    |    |----nghia-rename-time.py
     |    |----nghia-rename-time.code-workspace
     |    |----README.md
@@ -454,8 +456,6 @@
     |----nghia-step-recorder/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----nghia-step-recorder/
-    |    |    |    |----contents/
     |    |    |----nghia-step-recorder.py
     |    |----nghia-step-recorder.code-workspace
     |    |----README.md
@@ -475,8 +475,6 @@
     |    |    |----main.pdf
     |    |    |----main.synctex.gz
     |    |    |----main.tex
-    |    |    |----nghia-test-tikz/
-    |    |    |    |----contents/
     |    |    |----template.pdf
     |    |    |----template.synctex.gz
     |    |    |----template.tex
@@ -486,9 +484,6 @@
     |    |----.gitignore
     |    |----.gitmodules
     |    |----contents/
-    |    |    |----autostart/
-    |    |    |    |----temp/
-    |    |    |----contents/
     |    |    |----dotbot/
     |    |    |    |----.editorconfig
     |    |    |    |----.git
@@ -526,8 +521,6 @@
     |    |    |    |    |    |----__init__.py
     |    |    |    |    |----__init__.py
     |    |    |    |    |----__main__.py
-    |    |    |    |----lib/
-    |    |    |    |    |----pyyaml/
     |    |    |    |----LICENSE.md
     |    |    |    |----pyproject.toml
     |    |    |    |----README.md
@@ -590,25 +583,20 @@
     |    |    |    |    |    |----home/
     |    |    |    |    |    |    |----.config/
     |    |    |    |    |    |    |    |----autostart/
-    |    |    |    |    |    |    |    |    |----autostart/
     |    |    |    |    |    |    |    |    |----code.desktop
     |    |    |    |    |    |    |    |    |----copyq.desktop
     |    |    |    |    |    |    |    |    |----FDM.desktop
     |    |    |    |    |    |    |    |    |----google-chrome.desktop
-    |    |    |    |    |    |    |    |    |----temp/
     |    |    |    |    |    |    |    |----copyq/
     |    |    |    |    |    |    |    |    |----copyq-commands.ini
     |    |    |    |    |    |    |----Desktop/
-    |    |    |    |    |    |    |    |----background/
     |    |    |    |    |    |    |    |----background.jpeg
     |    |    |    |    |    |    |----Templates/
     |    |    |    |    |    |    |    |----all.gitignore.gitignore
     |    |    |    |    |    |    |    |----main.latex.tex
     |    |    |    |    |    |    |    |----main.python.py
     |    |    |    |    |    |    |    |----README.md
-    |    |    |    |    |    |    |    |----Templates/
     |    |    |    |    |    |    |    |----Text.txt
-    |    |    |    |    |----shellscript/
     |    |    |    |    |----theme-dark.sh
     |    |    |    |    |----trash.sh
     |    |    |    |    |----tree.sh
@@ -638,26 +626,11 @@
     |    |    |----install
     |    |    |----install.conf.yaml
     |    |    |----install.format.py
-    |    |    |----New folder/
-    |    |    |    |----nghia-ubuntu-main/
-    |    |    |    |    |----nghia-ubuntu-main000/
-    |    |    |    |    |    |----nghia-ubuntu-main/
-    |    |    |    |    |    |    |----contents/
-    |    |    |----nghia-ubuntu/
-    |    |    |    |----contents/
-    |    |    |----nghia-ubuntu-main/
-    |    |    |----nghia-ubuntu-main_2000/
-    |    |    |    |----nghia-ubuntu-main/
-    |    |    |    |    |----contents/
-    |    |    |----nghia-ubuntu-main_3/
-    |    |    |----_download/
     |    |----nghia-ubuntu.code-workspace
     |    |----README.md
     |----nghia-ubuntu-link/
     |    |----.gitignore
     |    |----contents/
-    |    |    |----nghia-ubuntu-link/
-    |    |    |    |----contents/
     |    |    |----nghia-ubuntu-link.py
     |    |----nghia-ubuntu-link.code-workspace
     |    |----README.md
@@ -731,8 +704,6 @@
     |    |----.gitignore
     |    |----.gitmodules
     |    |----contents/
-    |    |    |----company20206205/
-    |    |    |----contents/
     |    |    |----dotbot/
     |    |    |    |----.editorconfig
     |    |    |    |----.git
@@ -770,8 +741,6 @@
     |    |    |    |    |    |----__init__.py
     |    |    |    |    |----__init__.py
     |    |    |    |    |----__main__.py
-    |    |    |    |----lib/
-    |    |    |    |    |----pyyaml/
     |    |    |    |----LICENSE.md
     |    |    |    |----pyproject.toml
     |    |    |    |----README.md
@@ -911,16 +880,12 @@
     |    |    |----install
     |    |    |----install.conf.yaml
     |    |    |----install.format.py
-    |    |    |----nghia-windows/
-    |    |    |----nghia-windows-main/
-    |    |    |----nghia-windows-main000/
-    |    |    |----vvn20206205/
     |    |----nghia-windows.code-workspace
     |    |----README.md
-    |    |----temp/
     |----nghia-windows-autohotkey/
     |    |----.gitignore
     |    |----contents/
+    |    |    |----f11.bat
     |    |    |----nghia-windows-autohotkey.ahk
     |    |    |----nghia-windows-autohotkey.py
     |    |----nghia-windows-autohotkey.code-workspace
@@ -934,17 +899,10 @@
     |    |----README.md
     |----whynotnghiavu/
     |    |----.gitignore
-    |    |----company20206205/
     |    |----contents/
     |    |    |----.gitignore
     |    |    |----whynotnghiavu.py
     |    |----README.md
     |    |----whynotnghiavu.code-workspace
-    |----_Delete/
+    |----_wifi/
     |    |----.gitignore
-    |    |----0/
-    |    |----0.5/
-    |    |----Nghia/
-    |    |    |----Git/
-    |    |----nghia-git-backup/
-    |    |    |----1/

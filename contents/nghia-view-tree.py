@@ -4,7 +4,7 @@ import os
 def display(directory, indent='', output_file=None, ignore_folders=None):
     folder_name = os.path.basename(directory)
     if folder_name not in ignore_folders:
-        with open(output_file, "a") as file:
+        with open(output_file, "a", encoding="utf-8") as file:
             file.write(indent + "----" + folder_name + "/\n")
 
     indent += "    |"
@@ -16,7 +16,7 @@ def display(directory, indent='', output_file=None, ignore_folders=None):
                 display(item_path, indent, output_file, ignore_folders)
         else:
             if folder_name not in ignore_folders:
-                with open(output_file, "a") as file:
+                with open(output_file, "a", encoding="utf-8") as file:
                     file.write(indent + "----" + item + "\n")
 
 
@@ -30,7 +30,7 @@ folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu"
 output_file = "output.txt"
 ignore_folders = [".git", "node_modules", "__pycache__"]
 #! INPUT
-with open(output_file, 'w') as file:
+with open(output_file, 'w', encoding="utf-8") as file:
     file.write("")
 display(folder_path, output_file=output_file, ignore_folders=ignore_folders)
 print(f"Kết quả đã được ghi vào tập tin {output_file}")
