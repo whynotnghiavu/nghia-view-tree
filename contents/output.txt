@@ -3199,7 +3199,6 @@
     |    |    |    |----python/
     |    |    |    |    |----docker/
     |    |    |    |    |    |----Dockerfile
-    |    |    |    |    |----file.py
     |    |    |    |    |----main.py
     |    |    |    |    |----modules/
     |    |    |    |    |    |----app.py
@@ -3224,10 +3223,12 @@
     |    |    |    |    |    |----__init__.py
     |    |    |    |    |----requirements.txt
     |    |    |----documents/
+    |    |    |    |----others/
+    |    |    |    |    |----file.py
+    |    |    |    |    |----vercel.json
     |    |    |    |----pictures/
-    |    |    |    |    |----image.png
-    |    |    |    |    |----nghia-contact-manager.png
-    |    |    |    |----vercel.json
+    |    |    |    |    |----law.png
+    |    |    |    |    |----Screenshot.png
     |    |----nghia-contact-manager.code-workspace
     |    |----README.md
     |----nghia-course/
@@ -3243,6 +3244,12 @@
     |    |----nghia-delete-empty-folder.code-workspace
     |    |----README.md
     |----nghia-einvoice-system/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----.gitignore
+    |    |    |----nghia-einvoice-system.py
+    |    |----nghia-einvoice-system.code-workspace
+    |    |----README.md
     |----nghia-english/
     |    |----.gitignore
     |    |----code/
@@ -3412,6 +3419,7 @@
     |    |----.gitignore
     |    |----contents/
     |    |    |----nghia-github-clone-all.py
+    |    |    |----requirements.txt
     |    |----nghia-github-clone-all.code-workspace
     |    |----README.md
     |----nghia-github-gitconfig/
@@ -3766,6 +3774,39 @@
     |    |    |----every.md
     |    |    |----github.md
     |    |----nghia-note.code-workspace
+    |    |----README.md
+    |----nghia-oop-adapter-round-square/
+    |    |----.gitignore
+    |    |----contents/
+    |    |    |----code/
+    |    |    |    |----AdapterPatternCircleSquare/
+    |    |    |    |    |----AdapterPatternCircleSquare/
+    |    |    |    |    |    |----AdapterPatternCircleSquare.csproj
+    |    |    |    |    |    |----App.config
+    |    |    |    |    |    |----CONFIG.cs
+    |    |    |    |    |    |----CONST.cs
+    |    |    |    |    |    |----CustomException.cs
+    |    |    |    |    |    |----DrawingOutput.cs
+    |    |    |    |    |    |----frmInput.cs
+    |    |    |    |    |    |----frmInput.Designer.cs
+    |    |    |    |    |    |----frmOutput.cs
+    |    |    |    |    |    |----frmOutput.Designer.cs
+    |    |    |    |    |    |----IRound.cs
+    |    |    |    |    |    |----ISquare.cs
+    |    |    |    |    |    |----packages.config
+    |    |    |    |    |    |----Program.cs
+    |    |    |    |    |    |----Properties/
+    |    |    |    |    |    |    |----AssemblyInfo.cs
+    |    |    |    |    |    |    |----Resources.Designer.cs
+    |    |    |    |    |    |    |----Resources.resx
+    |    |    |    |    |    |    |----Settings.Designer.cs
+    |    |    |    |    |    |    |----Settings.settings
+    |    |    |    |    |    |----RoundHole.cs
+    |    |    |    |    |    |----RoundPeg.cs
+    |    |    |    |    |    |----SquarePeg.cs
+    |    |    |    |    |    |----SquarePegAdapter.cs
+    |    |    |    |    |----AdapterPatternCircleSquare.sln
+    |    |----nghia-oop-adapter-round-square.code-workspace
     |    |----README.md
     |----nghia-python-requirements/
     |    |----.gitignore
