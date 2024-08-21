@@ -25,6 +25,7 @@ folder_path = r"C:\Users\VuVanNghia20206205\Desktop\flask-hello-world"
 folder_path = r"input"
 folder_path = r"/home/vvn20206205/Desktop/Git/company20206205"
 folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu"
+folder_path = r"C:\Users\vvn20206205\Downloads\video\Fast Typing Mastery From Beginner to Expert in 45 Minutes"
 
 
 output_file = "output.txt"
