@@ -1,57 +1,57 @@
-PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\Udemy - Touch Typing Mastery - Learn to type correctly 2020-5
+PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMasteryLearntotypecorrectly20205_Save
 
 
-----Udemy - Touch Typing Mastery - Learn to type correctly 2020-5/
+----UdemyTouchTypingMasteryLearntotypecorrectly20205_Save/
     |----1 - Introduction/
-    |    |----1 - Introduction English.srt
-    |    |----1 - Introduction.mp4
+    |    |----1 - Introduction English.srt.save
+    |    |----1 - Introduction.mp4.save
     |----2 - Get to Know About Typing Process/
-    |    |----2 - Different Methods of Typing English.srt
-    |    |----2 - Different Methods of Typing.mp4
-    |    |----3 - How Touch Typing Works English.srt
-    |    |----3 - How Touch Typing Works.mp4
-    |    |----4 - Fix Body Posture Before Starting English.srt
-    |    |----4 - Fix Body Posture Before Starting.mp4
+    |    |----2 - Different Methods of Typing English.srt.save
+    |    |----2 - Different Methods of Typing.mp4.save
+    |    |----3 - How Touch Typing Works English.srt.save
+    |    |----3 - How Touch Typing Works.mp4.save
+    |    |----4 - Fix Body Posture Before Starting English.srt.save
+    |    |----4 - Fix Body Posture Before Starting.mp4.save
     |----3 - Getting the Tools for Practicing/
-    |    |----5 - Installing the Practicing App English.srt
-    |    |----5 - Installing the Practicing App.mp4
-    |    |----6 - Get to Know About the Settings English.srt
-    |    |----6 - Get to Know About the Settings.mp4
-    |    |----7 - Things to Keep in Mind While Practicing English.srt
-    |    |----7 - Things to Keep in Mind While Practicing.mp4
+    |    |----5 - Installing the Practicing App English.srt.save
+    |    |----5 - Installing the Practicing App.mp4.save
+    |    |----6 - Get to Know About the Settings English.srt.save
+    |    |----6 - Get to Know About the Settings.mp4.save
+    |    |----7 - Things to Keep in Mind While Practicing English.srt.save
+    |    |----7 - Things to Keep in Mind While Practicing.mp4.save
     |----4 - Starts Practicing/
-    |    |----10 - Typing T I English.srt
-    |    |----10 - Typing T I.mp4
-    |    |----11 - Typing N R English.srt
-    |    |----11 - Typing N R.mp4
-    |    |----12 - Typing H C English.srt
-    |    |----12 - Typing H C.mp4
-    |    |----13 - Learn Capitalization English.srt
-    |    |----13 - Learn Capitalization.mp4
-    |    |----14 - W Fullstop Comma English.srt
-    |    |----14 - W Fullstop Comma.mp4
-    |    |----15 - G B U English.srt
-    |    |----15 - G B U.mp4
-    |    |----16 - Y M English.srt
-    |    |----16 - Y M.mp4
-    |    |----17 - V P English.srt
-    |    |----17 - V P.mp4
-    |    |----18 - X Interrogative English.srt
-    |    |----18 - X Interrogative.mp4
-    |    |----19 - Z First Brackets Hyphen English.srt
-    |    |----19 - Z First Brackets Hyphen.mp4
-    |    |----20 - Numerics English.srt
-    |    |----20 - Numerics.mp4
-    |    |----21 - Numpad English.srt
-    |    |----21 - Numpad.mp4
-    |    |----8 - The Home Row Keys English.srt
-    |    |----8 - The Home Row Keys.mp4
-    |    |----9 - Typing E O English.srt
-    |    |----9 - Typing E O.mp4
+    |    |----10 - Typing T I English.srt.save
+    |    |----10 - Typing T I.mp4.save
+    |    |----11 - Typing N R English.srt.save
+    |    |----11 - Typing N R.mp4.save
+    |    |----12 - Typing H C English.srt.save
+    |    |----12 - Typing H C.mp4.save
+    |    |----13 - Learn Capitalization English.srt.save
+    |    |----13 - Learn Capitalization.mp4.save
+    |    |----14 - W Fullstop Comma English.srt.save
+    |    |----14 - W Fullstop Comma.mp4.save
+    |    |----15 - G B U English.srt.save
+    |    |----15 - G B U.mp4.save
+    |    |----16 - Y M English.srt.save
+    |    |----16 - Y M.mp4.save
+    |    |----17 - V P English.srt.save
+    |    |----17 - V P.mp4.save
+    |    |----18 - X Interrogative English.srt.save
+    |    |----18 - X Interrogative.mp4.save
+    |    |----19 - Z First Brackets Hyphen English.srt.save
+    |    |----19 - Z First Brackets Hyphen.mp4.save
+    |    |----20 - Numerics English.srt.save
+    |    |----20 - Numerics.mp4.save
+    |    |----21 - Numpad English.srt.save
+    |    |----21 - Numpad.mp4.save
+    |    |----8 - The Home Row Keys English.srt.save
+    |    |----8 - The Home Row Keys.mp4.save
+    |    |----9 - Typing E O English.srt.save
+    |    |----9 - Typing E O.mp4.save
     |----5 - Shortcut Keys That Works Almost Everywhere/
-    |    |----22 - Working With Words English.srt
-    |    |----22 - Working With Words.mp4
-    |    |----23 - Selecting Texts With Shortcut Keys English.srt
-    |    |----23 - Selecting Texts With Shortcut Keys.mp4
-    |    |----24 - Editing Shortcut Keys English.srt
-    |    |----24 - Editing Shortcut Keys.mp4
+    |    |----22 - Working With Words English.srt.save
+    |    |----22 - Working With Words.mp4.save
+    |    |----23 - Selecting Texts With Shortcut Keys English.srt.save
+    |    |----23 - Selecting Texts With Shortcut Keys.mp4.save
+    |    |----24 - Editing Shortcut Keys English.srt.save
+    |    |----24 - Editing Shortcut Keys.mp4.save
