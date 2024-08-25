@@ -27,6 +27,8 @@ folder_path = r"/home/vvn20206205/Desktop/Git/company20206205"
 folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu"
 # folder_path = r"C:\Users\vvn20206205\Downloads\video\Fast Typing Mastery From Beginner to Expert in 45 Minutes"
 # folder_path = r"C:\Users\vvn20206205\Downloads\video\Fast_Typing_Mastery_From_Beginner_to_Expert_in_45_Minutes_2\Fast Typing Mastery From Beginner to Expert in 45 Minutes"
+folder_path = r"C:\Users\vvn20206205\Downloads\video\TouchTyping\test\Udemy - Touch Typing Mastery - Learn to type correctly 2020-5"
+# folder_path = r"C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMasteryLearntotypecorrectly20205_Save"
 
 
 output_file = "output.txt"
