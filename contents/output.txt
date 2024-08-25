@@ -1,7 +1,7 @@
-PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\Udemy - Touch Typing Mastery - Learn to type correctly 2020-5
+PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMasteryLearntotypecorrectly20205_VVN
 
 
-----Udemy - Touch Typing Mastery - Learn to type correctly 2020-5/
+----UdemyTouchTypingMasteryLearntotypecorrectly20205_VVN/
     |----1 - Introduction/
     |    |----1 - Introduction English.srt
     |    |----1 - Introduction.mp4

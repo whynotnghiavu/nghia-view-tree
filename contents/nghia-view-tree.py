@@ -30,6 +30,7 @@ folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu"
 
 folder_path = r"C:\Users\vvn20206205\Downloads\video\TouchTyping\test\Udemy - Touch Typing Mastery - Learn to type correctly 2020-5"
 # folder_path = r"C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMasteryLearntotypecorrectly20205_Save"
+folder_path = r"C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMasteryLearntotypecorrectly20205_VVN"
 
 
 output_file = "output.txt"
