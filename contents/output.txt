@@ -2,24 +2,24 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
 
 
 ----UdemyTouchTypingMasteryLearntotypecorrectly20205_VVN/
-    |----1 - Introduction/
+    |----000000001/
     |    |----1 - Introduction English.srt
     |    |----1 - Introduction.mp4
-    |----2 - Get to Know About Typing Process/
+    |----000000002/
     |    |----2 - Different Methods of Typing English.srt
     |    |----2 - Different Methods of Typing.mp4
     |    |----3 - How Touch Typing Works English.srt
     |    |----3 - How Touch Typing Works.mp4
     |    |----4 - Fix Body Posture Before Starting English.srt
     |    |----4 - Fix Body Posture Before Starting.mp4
-    |----3 - Getting the Tools for Practicing/
+    |----000000003/
     |    |----5 - Installing the Practicing App English.srt
     |    |----5 - Installing the Practicing App.mp4
     |    |----6 - Get to Know About the Settings English.srt
     |    |----6 - Get to Know About the Settings.mp4
     |    |----7 - Things to Keep in Mind While Practicing English.srt
     |    |----7 - Things to Keep in Mind While Practicing.mp4
-    |----4 - Starts Practicing/
+    |----000000004/
     |    |----10 - Typing T I English.srt
     |    |----10 - Typing T I.mp4
     |    |----11 - Typing N R English.srt
@@ -48,7 +48,7 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----8 - The Home Row Keys.mp4
     |    |----9 - Typing E O English.srt
     |    |----9 - Typing E O.mp4
-    |----5 - Shortcut Keys That Works Almost Everywhere/
+    |----000000005/
     |    |----22 - Working With Words English.srt
     |    |----22 - Working With Words.mp4
     |    |----23 - Selecting Texts With Shortcut Keys English.srt
