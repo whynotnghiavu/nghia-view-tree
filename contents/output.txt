@@ -26,7 +26,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000001_english.vvn.nghia
     |    |----000000001_merge.vvn.nghia
     |    |----000000001_vn1.vvn.nghia
+    |    |----000000001_vn1.vvn.nghia.mp4
     |    |----000000001_vn2.vvn.nghia
+    |    |----000000001_vn2.vvn.nghia.mp4
     |----000000002/
     |    |----000000002/
     |    |    |----000000001 - Copy.wav
@@ -60,7 +62,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000002_english.vvn.nghia
     |    |----000000002_merge.vvn.nghia
     |    |----000000002_vn1.vvn.nghia
+    |    |----000000002_vn1.vvn.nghia.mp4
     |    |----000000002_vn2.vvn.nghia
+    |    |----000000002_vn2.vvn.nghia.mp4
     |    |----000000003/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -99,7 +103,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000003_english.vvn.nghia
     |    |----000000003_merge.vvn.nghia
     |    |----000000003_vn1.vvn.nghia
+    |    |----000000003_vn1.vvn.nghia.mp4
     |    |----000000003_vn2.vvn.nghia
+    |    |----000000003_vn2.vvn.nghia.mp4
     |    |----000000004/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -129,7 +135,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000004_english.vvn.nghia
     |    |----000000004_merge.vvn.nghia
     |    |----000000004_vn1.vvn.nghia
+    |    |----000000004_vn1.vvn.nghia.mp4
     |    |----000000004_vn2.vvn.nghia
+    |    |----000000004_vn2.vvn.nghia.mp4
     |----000000003/
     |    |----000000005/
     |    |    |----000000001 - Copy.wav
@@ -169,7 +177,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000005_english.vvn.nghia
     |    |----000000005_merge.vvn.nghia
     |    |----000000005_vn1.vvn.nghia
+    |    |----000000005_vn1.vvn.nghia.mp4
     |    |----000000005_vn2.vvn.nghia
+    |    |----000000005_vn2.vvn.nghia.mp4
     |    |----000000006/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -252,7 +262,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000006_english.vvn.nghia
     |    |----000000006_merge.vvn.nghia
     |    |----000000006_vn1.vvn.nghia
+    |    |----000000006_vn1.vvn.nghia.mp4
     |    |----000000006_vn2.vvn.nghia
+    |    |----000000006_vn2.vvn.nghia.mp4
     |    |----000000007/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -291,7 +303,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000007_english.vvn.nghia
     |    |----000000007_merge.vvn.nghia
     |    |----000000007_vn1.vvn.nghia
+    |    |----000000007_vn1.vvn.nghia.mp4
     |    |----000000007_vn2.vvn.nghia
+    |    |----000000007_vn2.vvn.nghia.mp4
     |----000000004/
     |    |----000000008/
     |    |    |----000000001 - Copy.wav
@@ -340,7 +354,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000008_english.vvn.nghia
     |    |----000000008_merge.vvn.nghia
     |    |----000000008_vn1.vvn.nghia
+    |    |----000000008_vn1.vvn.nghia.mp4
     |    |----000000008_vn2.vvn.nghia
+    |    |----000000008_vn2.vvn.nghia.mp4
     |    |----000000009/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -370,7 +386,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000009_english.vvn.nghia
     |    |----000000009_merge.vvn.nghia
     |    |----000000009_vn1.vvn.nghia
+    |    |----000000009_vn1.vvn.nghia.mp4
     |    |----000000009_vn2.vvn.nghia
+    |    |----000000009_vn2.vvn.nghia.mp4
     |    |----000000010/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -394,7 +412,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000010_english.vvn.nghia
     |    |----000000010_merge.vvn.nghia
     |    |----000000010_vn1.vvn.nghia
+    |    |----000000010_vn1.vvn.nghia.mp4
     |    |----000000010_vn2.vvn.nghia
+    |    |----000000010_vn2.vvn.nghia.mp4
     |    |----000000011/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -421,7 +441,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000011_english.vvn.nghia
     |    |----000000011_merge.vvn.nghia
     |    |----000000011_vn1.vvn.nghia
+    |    |----000000011_vn1.vvn.nghia.mp4
     |    |----000000011_vn2.vvn.nghia
+    |    |----000000011_vn2.vvn.nghia.mp4
     |    |----000000012/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -451,7 +473,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000012_english.vvn.nghia
     |    |----000000012_merge.vvn.nghia
     |    |----000000012_vn1.vvn.nghia
+    |    |----000000012_vn1.vvn.nghia.mp4
     |    |----000000012_vn2.vvn.nghia
+    |    |----000000012_vn2.vvn.nghia.mp4
     |    |----000000013/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -490,7 +514,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000013_english.vvn.nghia
     |    |----000000013_merge.vvn.nghia
     |    |----000000013_vn1.vvn.nghia
+    |    |----000000013_vn1.vvn.nghia.mp4
     |    |----000000013_vn2.vvn.nghia
+    |    |----000000013_vn2.vvn.nghia.mp4
     |    |----000000014/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -523,7 +549,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000014_english.vvn.nghia
     |    |----000000014_merge.vvn.nghia
     |    |----000000014_vn1.vvn.nghia
+    |    |----000000014_vn1.vvn.nghia.mp4
     |    |----000000014_vn2.vvn.nghia
+    |    |----000000014_vn2.vvn.nghia.mp4
     |    |----000000015/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -571,7 +599,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000015_english.vvn.nghia
     |    |----000000015_merge.vvn.nghia
     |    |----000000015_vn1.vvn.nghia
+    |    |----000000015_vn1.vvn.nghia.mp4
     |    |----000000015_vn2.vvn.nghia
+    |    |----000000015_vn2.vvn.nghia.mp4
     |    |----000000016/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -604,7 +634,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000016_english.vvn.nghia
     |    |----000000016_merge.vvn.nghia
     |    |----000000016_vn1.vvn.nghia
+    |    |----000000016_vn1.vvn.nghia.mp4
     |    |----000000016_vn2.vvn.nghia
+    |    |----000000016_vn2.vvn.nghia.mp4
     |    |----000000017/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -628,7 +660,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000017_english.vvn.nghia
     |    |----000000017_merge.vvn.nghia
     |    |----000000017_vn1.vvn.nghia
+    |    |----000000017_vn1.vvn.nghia.mp4
     |    |----000000017_vn2.vvn.nghia
+    |    |----000000017_vn2.vvn.nghia.mp4
     |    |----000000018/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -667,7 +701,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000018_english.vvn.nghia
     |    |----000000018_merge.vvn.nghia
     |    |----000000018_vn1.vvn.nghia
+    |    |----000000018_vn1.vvn.nghia.mp4
     |    |----000000018_vn2.vvn.nghia
+    |    |----000000018_vn2.vvn.nghia.mp4
     |    |----000000019/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -709,7 +745,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000019_english.vvn.nghia
     |    |----000000019_merge.vvn.nghia
     |    |----000000019_vn1.vvn.nghia
+    |    |----000000019_vn1.vvn.nghia.mp4
     |    |----000000019_vn2.vvn.nghia
+    |    |----000000019_vn2.vvn.nghia.mp4
     |    |----000000020/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -754,7 +792,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000020_english.vvn.nghia
     |    |----000000020_merge.vvn.nghia
     |    |----000000020_vn1.vvn.nghia
+    |    |----000000020_vn1.vvn.nghia.mp4
     |    |----000000020_vn2.vvn.nghia
+    |    |----000000020_vn2.vvn.nghia.mp4
     |    |----000000021/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -796,7 +836,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000021_english.vvn.nghia
     |    |----000000021_merge.vvn.nghia
     |    |----000000021_vn1.vvn.nghia
+    |    |----000000021_vn1.vvn.nghia.mp4
     |    |----000000021_vn2.vvn.nghia
+    |    |----000000021_vn2.vvn.nghia.mp4
     |----000000005/
     |    |----000000022/
     |    |    |----000000001 - Copy.wav
@@ -842,7 +884,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000022_english.vvn.nghia
     |    |----000000022_merge.vvn.nghia
     |    |----000000022_vn1.vvn.nghia
+    |    |----000000022_vn1.vvn.nghia.mp4
     |    |----000000022_vn2.vvn.nghia
+    |    |----000000022_vn2.vvn.nghia.mp4
     |    |----000000023/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -887,7 +931,9 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000023_english.vvn.nghia
     |    |----000000023_merge.vvn.nghia
     |    |----000000023_vn1.vvn.nghia
+    |    |----000000023_vn1.vvn.nghia.mp4
     |    |----000000023_vn2.vvn.nghia
+    |    |----000000023_vn2.vvn.nghia.mp4
     |    |----000000024/
     |    |    |----000000001 - Copy.wav
     |    |    |----000000001.wav
@@ -920,4 +966,6 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
     |    |----000000024_english.vvn.nghia
     |    |----000000024_merge.vvn.nghia
     |    |----000000024_vn1.vvn.nghia
+    |    |----000000024_vn1.vvn.nghia.mp4
     |    |----000000024_vn2.vvn.nghia
+    |    |----000000024_vn2.vvn.nghia.mp4
