@@ -4,54 +4,30 @@ PATH: C:\Users\vvn20206205\Downloads\video\TouchTyping\test\UdemyTouchTypingMast
 ----UdemyTouchTypingMasteryLearntotypecorrectly20205_VVN/
     |----000000001/
     |    |----000000001_vn2.vvn.nghia.mp4
-    |    |----000000001_vn3.vvn.nghia.srt
     |----000000002/
     |    |----000000002_vn2.vvn.nghia.mp4
-    |    |----000000002_vn3.vvn.nghia.srt
     |    |----000000003_vn2.vvn.nghia.mp4
-    |    |----000000003_vn3.vvn.nghia.srt
     |    |----000000004_vn2.vvn.nghia.mp4
-    |    |----000000004_vn3.vvn.nghia.srt
     |----000000003/
     |    |----000000005_vn2.vvn.nghia.mp4
-    |    |----000000005_vn3.vvn.nghia.srt
     |    |----000000006_vn2.vvn.nghia.mp4
-    |    |----000000006_vn3.vvn.nghia.srt
     |    |----000000007_vn2.vvn.nghia.mp4
-    |    |----000000007_vn3.vvn.nghia.srt
     |----000000004/
     |    |----000000008_vn2.vvn.nghia.mp4
-    |    |----000000008_vn3.vvn.nghia.srt
     |    |----000000009_vn2.vvn.nghia.mp4
-    |    |----000000009_vn3.vvn.nghia.srt
     |    |----000000010_vn2.vvn.nghia.mp4
-    |    |----000000010_vn3.vvn.nghia.srt
     |    |----000000011_vn2.vvn.nghia.mp4
-    |    |----000000011_vn3.vvn.nghia.srt
     |    |----000000012_vn2.vvn.nghia.mp4
-    |    |----000000012_vn3.vvn.nghia.srt
     |    |----000000013_vn2.vvn.nghia.mp4
-    |    |----000000013_vn3.vvn.nghia.srt
     |    |----000000014_vn2.vvn.nghia.mp4
-    |    |----000000014_vn3.vvn.nghia.srt
     |    |----000000015_vn2.vvn.nghia.mp4
-    |    |----000000015_vn3.vvn.nghia.srt
     |    |----000000016_vn2.vvn.nghia.mp4
-    |    |----000000016_vn3.vvn.nghia.srt
     |    |----000000017_vn2.vvn.nghia.mp4
-    |    |----000000017_vn3.vvn.nghia.srt
     |    |----000000018_vn2.vvn.nghia.mp4
-    |    |----000000018_vn3.vvn.nghia.srt
     |    |----000000019_vn2.vvn.nghia.mp4
-    |    |----000000019_vn3.vvn.nghia.srt
     |    |----000000020_vn2.vvn.nghia.mp4
-    |    |----000000020_vn3.vvn.nghia.srt
     |    |----000000021_vn2.vvn.nghia.mp4
-    |    |----000000021_vn3.vvn.nghia.srt
     |----000000005/
     |    |----000000022_vn2.vvn.nghia.mp4
-    |    |----000000022_vn3.vvn.nghia.srt
     |    |----000000023_vn2.vvn.nghia.mp4
-    |    |----000000023_vn3.vvn.nghia.srt
     |    |----000000024_vn2.vvn.nghia.mp4
-    |    |----000000024_vn3.vvn.nghia.srt
